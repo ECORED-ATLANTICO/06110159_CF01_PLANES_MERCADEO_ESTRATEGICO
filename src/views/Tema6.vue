@@ -138,7 +138,7 @@
             p Comprender los criterios de segmentación es fundamental para crear narrativas que conecten auténticamente con públicos diversos. Más que dividir audiencias, se busca descubrir patrones significativos que permitan contar historias personalizadas y emocionalmente relevantes.
 
           .col-12.col-md-12.col-lg-12.mx-auto
-            .row.align-items-center.round-1.bg-color-terciario-t20.p-2(data-aos="fade-left")
+            .row.align-items-center.round-1.bg-color-terciario-t20.p-3(data-aos="fade-left")
               .col-12.col-md-6.col-lg-2.mx-auto
                 figure
                   img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema6/img09.svg', alt='Imagen Decorativa')

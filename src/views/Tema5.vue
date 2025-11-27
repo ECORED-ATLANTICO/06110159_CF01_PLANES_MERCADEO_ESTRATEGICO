@@ -101,7 +101,7 @@
                 SlyderF(columnas="col-lg-6 col-xl-6 col-md-6 col-sm-12").px-4
                   .tarjeta.shadow.p-3.bg-white
                     .row.justify-content-center
-                      .col-6.col-lg-8
+                      .col-6.col-lg-8.mb-3
                         img(src='@/assets/curso/temas/tema5/img09.svg' alt='Imagen Decorativa').w-auto.mx-auto.h-icons.mb-2
                     .text-center.px-3.mb-0
                       H5.bg-color-acento-botones.py-1 Necesidades y problemas por resolver
@@ -109,7 +109,7 @@
 
                   .tarjeta.shadow.p-3.bg-white
                     .row.justify-content-center
-                      .col-6.col-lg-8
+                      .col-6.col-lg-8.mb-3
                         img(src='@/assets/curso/temas/tema5/img10.svg' alt='Imagen Decorativa').w-auto.mx-auto.h-icons.mb-2
                     .text-center.px-3.mb-0
                       H5.bg-color-acento-botones.py-1 Aspiraciones y metas personales
@@ -117,7 +117,7 @@
 
                   .tarjeta.shadow.p-3.bg-white
                     .row.justify-content-center
-                      .col-6.col-lg-8
+                      .col-6.col-lg-8.mb-3
                         img(src='@/assets/curso/temas/tema5/img11.svg' alt='Imagen Decorativa').w-auto.mx-auto.h-icons.mb-2
                     .text-center.px-3.mb-0
                       H5.bg-color-acento-botones.py-1 Influencias sociales y culturales
@@ -125,7 +125,7 @@
 
                   .tarjeta.shadow.p-3.bg-white
                     .row.justify-content-center
-                      .col-6.col-lg-8
+                      .col-6.col-lg-8.mb-3
                         img(src='@/assets/curso/temas/tema5/img12.svg' alt='Imagen Decorativa').w-auto.mx-auto.h-icons.mb-2
                     .text-center.px-3.mb-0
                       H5.bg-color-acento-botones.py-1 Experiencia y confianza en la marca
@@ -133,7 +133,7 @@
 
                   .tarjeta.shadow.p-3.bg-white
                     .row.justify-content-center
-                      .col-6.col-lg-8
+                      .col-6.col-lg-8.mb-3
                         img(src='@/assets/curso/temas/tema5/img13.svg' alt='Imagen Decorativa').w-auto.mx-auto.h-icons.mb-2
                     .text-center.px-3.mb-0
                       H5.bg-color-acento-botones.py-1 Precio y valor percibido
@@ -141,7 +141,7 @@
 
                   .tarjeta.shadow.p-3.bg-white
                     .row.justify-content-center
-                      .col-6.col-lg-8
+                      .col-6.col-lg-8.mb-3
                         img(src='@/assets/curso/temas/tema5/img14.svg' alt='Imagen Decorativa').w-auto.mx-auto.h-icons.mb-2
                     .text-center.px-3.mb-0
                       H5.bg-color-acento-botones.py-1 Emoción y conexión personal
