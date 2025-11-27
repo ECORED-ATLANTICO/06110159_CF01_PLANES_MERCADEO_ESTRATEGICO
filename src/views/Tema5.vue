@@ -16,14 +16,14 @@
         .col-12.col-md-12.col-lg-9
           .row.align-items-center
             .col-12.col-md-12.col-lg-12.mx-auto
-              p.p-1  Comprender al cliente es esencial para el éxito del marketing estratégico. El perfil de mercado permite identificar con precisión a quién se dirige una organización, qué necesidades debe satisfacer y cómo puede generar una conexión efectiva con su público objetivo.
+              p.p-1   El buyer persona es una representación semificticia del cliente ideal de una empresa. Se basa en datos reales sobre comportamiento, motivaciones y necesidades del consumidor, permitiendo diseñar estrategias de comunicación más personalizadas y eficaces (HubSpot, 2022).
                 
             .col-12.col-md-12.col-lg-12.mx-auto.mb-3
               .bloque-texto-b.color-terciario
                 .bloque-texto-b__texto
                   i.fas.fa-quote-left
-                  h4.mb-0.ps-3 Según Kotler y Keller (2016),  
-                  p.mb-0 este perfil se construye a partir de variables demográficas como edad, género e ingresos; geográficas como ubicación, clima y densidad poblacional; psicográficas como valores, intereses y estilo de vida; y conductuales como hábitos de compra, uso del producto y nivel de lealtad.
+                  h4.mb-0.ps-3 Según Revella (2015), 
+                  p.mb-0 el buyer persona es un perfil detallado que describe los intereses, preocupaciones y patrones de toma de decisiones de los clientes potenciales. Esta herramienta facilita la creación de contenido relevante y aumenta la efectividad de las estrategias de marketing.
                   i.fas.fa-quote-right
       
       separador
