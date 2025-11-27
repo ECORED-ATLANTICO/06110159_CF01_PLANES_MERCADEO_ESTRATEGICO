@@ -17,7 +17,7 @@
           p.mb-4 En un entorno comercial cada vez más dinámico, comprender las tendencias del mercado se ha convertido en una habilidad esencial para cualquier profesional del marketing. 
 
           .col-12.col-md-12.col-lg-12.mx-auto
-            .row.align-items-center.round-1.bg-color-terciario-t20.p-2(data-aos="fade-left")
+            .row.align-items-center.round-1.bg-color-terciario-t20.p-3(data-aos="fade-left")
               .col-12.col-md-6.col-lg-2.mx-auto
                 figure
                   img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema3/img02.svg', alt='Imagen Decorativa')
@@ -103,7 +103,7 @@
           
         .col-12.col-md-12.col-lg-7.mb-4.mb-lg-0
           .tarjeta.p-2.p-lg-4.bg03
-            .tarjeta--blanca.p-1.p-lg-1
+            .tarjeta--blanca.p-3.p-lg-3
               SlyderA(tipo="b")
                 .tarjeta.p-2.p-lg-3
                   .row.align-items-center
