@@ -53,7 +53,7 @@
         .row.align-items-center(data-aos="fade-left")
           .col-12.col-lg-10.bg07.justify-content-center.p-4.tarjeta.mx-auto.position-relative
             .row.align-items-center
-              .col-12.col-md-12.col-lg-3.mb-4.mb-lg-0.d-none.d-lg-block
+              .col-12.col-md-12.col-lg-4.mb-4.mb-lg-0.d-none.d-lg-block
                 figure
                   img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema4/img04.png', alt='imagen decorativa').w-auto.img04
 
