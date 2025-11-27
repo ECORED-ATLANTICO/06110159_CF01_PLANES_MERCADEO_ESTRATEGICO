@@ -149,9 +149,8 @@
                   h4.mb-0.ps-3 <br>Según Kotler y Keller (2016),  
                   i.fas.fa-quote-right
 
-
             .col-12.col-md-12.col-lg-12.mx-auto
-              .row.align-items-center.round-1.bg-color-terciario-t20.p-1(data-aos="fade-left")
+              .row.align-items-center.round-1.bg-color-terciario-t20.p-3(data-aos="fade-left")
                 .col-12.col-md-6.col-lg-2.mx-auto
                   figure
                     img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema2/img16.svg', alt='Imagen Decorativa')
