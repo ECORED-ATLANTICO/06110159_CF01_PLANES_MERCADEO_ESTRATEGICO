@@ -29,7 +29,7 @@ export default {
           id: 1,
           texto:
             'El mercado potencial incluye únicamente a los consumidores que ya compran el producto.',
-          imagen: null,
+          imagen: require('@/assets/actividad/img01.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: false },
@@ -44,7 +44,7 @@ export default {
           id: 2,
           texto:
             'Las variables demográficas permiten conocer el estilo de vida y valores del consumidor.',
-          imagen: null,
+          imagen: require('@/assets/actividad/img06.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: false },
@@ -59,7 +59,7 @@ export default {
           id: 3,
           texto:
             'La investigación exploratoria se utiliza cuando se tiene poco conocimiento sobre el problema.',
-          imagen: null,
+          imagen: require('@/assets/actividad/img01.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: true },
@@ -74,7 +74,7 @@ export default {
           id: 4,
           texto:
             'Las fuentes secundarias siempre son más confiables que las primarias.',
-          imagen: null,
+          imagen: require('@/assets/actividad/img06.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: false },
@@ -89,7 +89,7 @@ export default {
           id: 5,
           texto:
             'El análisis PESTEL permite identificar factores externos que afectan a una organización.',
-          imagen: null,
+          imagen: require('@/assets/actividad/img02.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: true },
@@ -104,7 +104,7 @@ export default {
           id: 6,
           texto:
             'Las tendencias emergentes son aquellas que ya están consolidadas en el mercado.',
-          imagen: null,
+          imagen: require('@/assets/actividad/img04.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: false },
@@ -119,7 +119,7 @@ export default {
           id: 7,
           texto:
             'El benchmarking consiste en copiar las estrategias de la competencia sin adaptarlas.',
-          imagen: null,
+          imagen: require('@/assets/actividad/img03.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: false },
@@ -134,7 +134,7 @@ export default {
           id: 8,
           texto:
             'Un perfil de mercado puede incluir variables conductuales como la frecuencia de compra.',
-          imagen: null,
+          imagen: require('@/assets/actividad/img02.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: true },
@@ -149,7 +149,7 @@ export default {
           id: 9,
           texto:
             'El perfil ideal representa al cliente que actualmente compra el producto.',
-          imagen: null,
+          imagen: require('@/assets/actividad/img05.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: false },
@@ -164,7 +164,7 @@ export default {
           id: 10,
           texto:
             'Un segmento de mercado debe ser medible, accesible y sustancial para ser útil.',
-          imagen: null,
+          imagen: require('@/assets/actividad/img04.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: true },
@@ -179,7 +179,7 @@ export default {
           id: 11,
           texto:
             'La segmentación psicográfica se basa en ubicación geográfica y clima.',
-          imagen: null,
+          imagen: require('@/assets/actividad/img02.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: false },
@@ -194,7 +194,7 @@ export default {
           id: 12,
           texto:
             'El buyer persona ayuda a humanizar los datos del perfil de mercado y mejorar la comunicación.',
-          imagen: null,
+          imagen: require('@/assets/actividad/img01.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: true },
@@ -209,7 +209,7 @@ export default {
           id: 13,
           texto:
             'El buyer persona es una representación ficticia sin base en datos reales.',
-          imagen: null,
+          imagen: require('@/assets/actividad/img01.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: false },
@@ -224,7 +224,7 @@ export default {
           id: 14,
           texto:
             'Un buyer persona puede incluir frustraciones y objetivos del cliente.',
-          imagen: null,
+          imagen: require('@/assets/actividad/img07.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: true },
@@ -239,7 +239,7 @@ export default {
           id: 15,
           texto:
             'Las encuestas estructuradas son una técnica cualitativa de investigación.',
-          imagen: null,
+          imagen: require('@/assets/actividad/img06.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: false },
@@ -254,7 +254,7 @@ export default {
           id: 16,
           texto:
             'La observación directa permite captar comportamientos reales en contextos específicos.',
-          imagen: null,
+          imagen: require('@/assets/actividad/img05.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: true },
@@ -269,7 +269,7 @@ export default {
           id: 17,
           texto:
             'El benchmarking permite comparar prácticas de la empresa con las de los líderes del sector.',
-          imagen: null,
+          imagen: require('@/assets/actividad/img05.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: true },
@@ -284,7 +284,7 @@ export default {
           id: 18,
           texto:
             'Las fuentes primarias se obtienen directamente del mercado mediante técnicas como encuestas.',
-          imagen: null,
+          imagen: require('@/assets/actividad/img04.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: true },
@@ -299,7 +299,7 @@ export default {
           id: 19,
           texto:
             'El análisis de tendencias no tiene utilidad para identificar oportunidades de negocio.',
-          imagen: null,
+          imagen: require('@/assets/actividad/img03.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: false },
@@ -314,7 +314,7 @@ export default {
           id: 20,
           texto:
             'Un perfil de mercado bien construido facilita la toma de decisiones estratégicas.',
-          imagen: null,
+          imagen: require('@/assets/actividad/img02.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: true },
