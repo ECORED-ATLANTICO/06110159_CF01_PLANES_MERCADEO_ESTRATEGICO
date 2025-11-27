@@ -20,16 +20,16 @@
           .row.align-items-center.round-1.bg-color-terciario-t20.p-3(data-aos="fade-left")
             .col-12.col-md-6.col-lg-2.mx-auto
               figure
-                img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/intro/img02.png', alt='Imagen Decorativa')
+                img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/intro/img02.svg', alt='Imagen Decorativa')
             .col-12.col-md-12.col-lg-10
               p.mb-0 Este componente también enfatiza en la aplicación de métodos y herramientas de investigación que permiten comprender el comportamiento del consumidor y proyectar escenarios de demanda, con un enfoque en la toma de decisiones basadas en datos.
       
       .row.align-items-center.justify-content-center(data-aos="fade-left")
-        .col-12.col-md-12.col-lg-11.mb-4.mb-lg-0
+        .col-12.col-md-12.col-lg-10.col-xl-10.mb-4.mb-lg-0
           .row.align-items-center.justify-content-center
             .col-12.col-md-12.col-lg-1.mb-4.mb-lg-0.d-none.d-lg-block
               figure
-                img.mb-4.mb-lg-0(src='@/assets/curso/intro/img03.png', alt='imagen decorativa')
+                img.mb-4.mb-lg-0(src='@/assets/curso/intro/img03.svg', alt='imagen decorativa')
             .col-12.col-lg-10
               p.mb-0 Además, promueve la construcción de perfiles de clientes y buyer persona como base para diseñar estrategias efectivas. Así, se contribuye a la formación de profesionales capaces de planificar acciones comerciales sostenibles y competitivas en diversos contextos empresariales. 
 
