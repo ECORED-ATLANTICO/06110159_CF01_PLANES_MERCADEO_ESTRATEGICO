@@ -21,7 +21,7 @@
             .row.align-items-center.round-1.bg-color-terciario-t20.p-2(data-aos="fade-left")
               .col-12.col-md-6.col-lg-2
                 figure
-                  img.mb-4.mb-lg-0.mx-auto.w-sm-auto(src='@/assets/curso/temas/tema3/img02.png', alt='Imagen Decorativa')
+                  img.mb-4.mb-lg-0.mx-auto.w-sm-auto(src='@/assets/curso/temas/tema3/img02.svg', alt='Imagen Decorativa')
               .col-12.col-md-12.col-lg-10
                 p.mb-0 Incluye los elementos que definen el perfil ideal y el perfil real del consumidor, así como la identificación del segmento de mercado como unidad estratégica. También incorpora el uso del buyer persona, una herramienta que humaniza los datos y orienta las decisiones comerciales hacia soluciones más personalizadas y efectivas.
     
@@ -77,7 +77,7 @@
           .row.align-items-center.round-1.bg-color-terciario-t20.p-2(data-aos="fade-left")
             .col-12.col-md-6.col-lg-2.mx-auto
               figure
-                img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema4/img06.png', alt='Imagen Decorativa')
+                img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema4/img06.svg', alt='Imagen Decorativa')
             .col-12.col-md-12.col-lg-10
               p.mb-0 El perfil ideal representa al cliente que la empresa aspira a atraer, basado en sus objetivos estratégicos, mientras que el perfil real se construye a partir de datos concretos de los clientes actuales, esta distinción permite ajustar las expectativas y mejorar la alineación entre la propuesta de valor y el comportamiento del mercado (Solomon, 2018).
 

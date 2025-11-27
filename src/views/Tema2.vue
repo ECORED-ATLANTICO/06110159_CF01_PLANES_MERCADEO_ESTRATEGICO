@@ -33,9 +33,9 @@
       h2#t_2_1 2.1 Tipos
 
     .row.align-items-center.justify-content-center(data-aos="fade-left").mb-4
-      .col-12.col-md-8.col-lg-1.mb-4.mb-lg-0
+      .col-12.col-md-6.col-lg-1.mb-4.mb-lg-0
         figure
-          img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema2/img03.png', alt='Imagen Decorativa')
+          img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema2/img03.svg', alt='Imagen Decorativa')
 
       .col-12.col-md-12.col-lg-11
         p.mb-0  Existen diversos tipos de investigación de mercados, cada uno con características específicas que responden a distintos objetivos empresariales. A continuación, se presentan los principales:
@@ -154,7 +154,7 @@
               .row.align-items-center.round-1.bg-color-terciario-t20.p-1(data-aos="fade-left")
                 .col-12.col-md-6.col-lg-2.mx-auto
                   figure
-                    img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema2/img16.png', alt='Imagen Decorativa')
+                    img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema2/img16.svg', alt='Imagen Decorativa')
                 .col-12.col-md-12.col-lg-10
                   p.mb-0 La combinación de ambas fuentes permite enriquecer el análisis y tomar decisiones más informadas, en contextos empresariales, es común iniciar con fuentes secundarias para contextualizar el problema y luego aplicar técnicas primarias para profundizar en aspectos específicos del público objetivo.
                     

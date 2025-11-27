@@ -20,7 +20,7 @@
             .row.align-items-center.round-1.bg-color-terciario-t20.p-2(data-aos="fade-left")
               .col-12.col-md-6.col-lg-2.mx-auto
                 figure
-                  img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema3/img02.png', alt='Imagen Decorativa')
+                  img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema3/img02.svg', alt='Imagen Decorativa')
               .col-12.col-md-12.col-lg-10
                 p.mb-0 A través del estudio de herramientas como PESTEL, benchmarking y observación directa, se busca desarrollar la capacidad de anticipar oportunidades, adaptar estrategias y generar propuestas de valor alineadas con el contexto. El análisis de tendencias no solo permite mirar hacia el futuro, sino también entender el presente con mayor profundidad.
                   
@@ -165,21 +165,21 @@
               .col-6.col-lg-12.mb-3
                 img(src='@/assets/curso/temas/tema3/img07.png' alt='Icono Decorativo')
               .col-6.col-lg-12
-                p Desarrollo de plataformas virtuales y automatización de procesos.
+                p.mb-0 Desarrollo de plataformas virtuales y automatización de procesos.
 
           .tarjeta.p-3.px-4(titulo="Geográficas").bg-color-adicional-1.d-flex.align-items-center
             .row.justify-content-center.mr-3
               .col-6.col-lg-12.mb-3
                 img(src='@/assets/curso/temas/tema3/img07.png' alt='Icono Decorativo')
               .col-6.col-lg-12
-                p Creación de marcas sostenibles, empaques ecológicos y trazabilidad ética.
+                p.mb-0 Creación de marcas sostenibles, empaques ecológicos y trazabilidad ética.
 
           .tarjeta.p-3.px-4(titulo="Psicográficas").bg-color-adicional-1.d-flex.align-items-center
             .row.justify-content-center.mr-3
               .col-6.col-lg-12.mb-3
                 img(src='@/assets/curso/temas/tema3/img07.png' alt='Icono Decorativo')
               .col-6.col-lg-12
-                p Innovaciones en salud preventiva, productos adaptados y tecnología asistida.
+                p.mb-0 Innovaciones en salud preventiva, productos adaptados y tecnología asistida.
 
 
 </template>

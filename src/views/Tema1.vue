@@ -34,56 +34,57 @@
         h2#t_1_1 1.1 Tipos
 
       //- Col4 y Col8
-      .container.mb-5
-        .row.align-items-center(data-aos="fade-left")
+      .row.align-items-center.mb-5(data-aos="fade-left")
 
-          p.mb-4 El concepto de mercado puede desglosarse en varios tipos, cada uno con características específicas que permiten una mejor segmentación y análisis estratégico; a continuación se presentan los principales tipos: 
+        p.mb-4 El concepto de mercado puede desglosarse en varios tipos, cada uno con características específicas que permiten una mejor segmentación y análisis estratégico; a continuación se presentan los principales tipos: 
 
-          .row.mb-5.mb-md-2(data-aos="fade-left")
-            .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0
-                .tarjeta.shadow.p-4.bg-white.h-100
-                  .row.justify-content-center.mb-3
-                    .col-6.col-lg-8
-                      img(src='@/assets/curso/temas/tema1/img02.png' alt='Imagen Decorativa').w-auto.mx-auto.h-120.mb-2
-                  .text-center
-                    H5.bg-color-secundario.py-1 Mercado real
-                    p Está compuesto por los consumidores que actualmente compran el producto o servicio.
-            .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0
-                .tarjeta.shadow.p-4.bg-white.h-100
-                  .row.justify-content-center.mb-3
-                    .col-6.col-lg-8
-                      img(src='@/assets/curso/temas/tema1/img03.png' alt='Imagen Decorativa').w-auto.mx-auto.h-120.mb-2
-                  .text-center
-                    H5.bg-color-secundario.py-1 Mercado disponible
-                    p Incluye a quienes tienen interés, ingresos y acceso al producto, pero aún no lo han adquirido.
-            .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0
-                .tarjeta.shadow.p-4.bg-white.h-100
-                  .row.justify-content-center.mb-3
-                    .col-6.col-lg-8
-                      img(src='@/assets/curso/temas/tema1/img04.png' alt='Imagen Decorativa').w-auto.mx-auto.h-120.mb-2
-                  .text-center
-                    H5.bg-color-secundario.py-1 Mercado objetivo
-                    p Segmento específico al que la empresa decide dirigir sus esfuerzos de marketing.
-            .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0
-                .tarjeta.shadow.p-4.bg-white.h-100
-                  .row.justify-content-center.mb-3
-                    .col-6.col-lg-8
-                      img(src='@/assets/curso/temas/tema1/img05.png' alt='Imagen Decorativa').w-auto.mx-auto.h-120.mb-2
-                  .text-center
-                    H5.bg-color-secundario.py-1 Mercado latente
-                    p Total de personas que podrían convertirse en clientes bajo condiciones favorables.
+        .row.mb-5.mb-md-2(data-aos="fade-left")
+          .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0
+            .tarjeta.shadow.p-4.bg-white.h-100
+              .row.justify-content-center.mb-3
+                .col-6.col-lg-8
+                  img(src='@/assets/curso/temas/tema1/img2.svg' alt='Imagen Decorativa').w-auto.mx-auto.h-120.mb-2
+              .text-center
+                H5.bg-color-secundario.py-1 Mercado real
+                p Está compuesto por los consumidores que actualmente compran el producto o servicio.
+          
+          .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0
+            .tarjeta.shadow.p-4.bg-white.h-100
+              .row.justify-content-center.mb-3
+                .col-6.col-lg-8
+                  img(src='@/assets/curso/temas/tema1/img03.svg' alt='Imagen Decorativa').w-auto.mx-auto.h-120.mb-2
+              .text-center
+                H5.bg-color-secundario.py-1 Mercado disponible
+                p Incluye a quienes tienen interés, ingresos y acceso al producto, pero aún no lo han adquirido.
+          
+          .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0
+            .tarjeta.shadow.p-4.bg-white.h-100
+              .row.justify-content-center.mb-3
+                .col-6.col-lg-8
+                  img(src='@/assets/curso/temas/tema1/img04.svg' alt='Imagen Decorativa').w-auto.mx-auto.h-120.mb-2
+              .text-center
+                H5.bg-color-secundario.py-1 Mercado objetivo
+                p Segmento específico al que la empresa decide dirigir sus esfuerzos de marketing.
+          
+          .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0
+            .tarjeta.shadow.p-4.bg-white.h-100
+              .row.justify-content-center.mb-3
+                .col-6.col-lg-8
+                  img(src='@/assets/curso/temas/tema1/img05.svg' alt='Imagen Decorativa').w-auto.mx-auto.h-120.mb-2
+              .text-center
+                H5.bg-color-secundario.py-1 Mercado latente
+                p Total de personas que podrían convertirse en clientes bajo condiciones favorables.
             
       //- Col8 y Col3
-      .container.mb-2
-        .row.align-items-center(data-aos="fade-left")
-          .col-12.col-lg-10.bg07.justify-content-center.p-4.tarjeta.mx-auto.position-relative
-            .row.align-items-center
-              .col-12.col-md-12.col-lg-4.mb-4.mb-lg-0.d-none.d-lg-block
-                figure
-                  img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema1/img06.png', alt='imagen decorativa').w-auto.img01
+      .row.align-items-center(data-aos="fade-left")
+        .col-12.col-lg-10.bg07.justify-content-center.p-4.tarjeta.mx-auto.position-relative
+          .row.align-items-center
+            .col-12.col-md-12.col-lg-4.mb-4.mb-lg-0.d-none.d-lg-block
+              figure
+                img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema1/img06.png', alt='imagen decorativa').w-auto.img01
 
-              .col-12.col-md-12.col-lg-8.mb-4.mb-lg-0
-                p.mb-0 Cada tipo de mercado cumple una función distinta en la planificación comercial. El mercado real permite evaluar el rendimiento actual, mientras que el mercado disponible y el potencial ayudan a identificar oportunidades de expansión. El mercado objetivo, por su parte, es el foco de las estrategias de posicionamiento y comunicación.  
+            .col-12.col-md-12.col-lg-8.mb-4.mb-lg-0
+              p.mb-0 Cada tipo de mercado cumple una función distinta en la planificación comercial. El mercado real permite evaluar el rendimiento actual, mientras que el mercado disponible y el potencial ayudan a identificar oportunidades de expansión. El mercado objetivo, por su parte, es el foco de las estrategias de posicionamiento y comunicación.  
 
     separador
     .bg-full-width.bg02
@@ -110,42 +111,42 @@
                     .col-6.col-lg-12.mb-3
                       img(src='@/assets/curso/temas/tema1/img09.png' alt='Icono Decorativo')
                     .col-6.col-lg-12
-                      p Incluyen aspectos como la edad, el género, el nivel educativo y la ocupación, los cuales permiten identificar grupos poblacionales con características comunes.
+                      p.p-3 Incluyen aspectos como la edad, el género, el nivel educativo y la ocupación, los cuales permiten identificar grupos poblacionales con características comunes.
 
                 .tarjeta.p-3.px-4(titulo="Geográficas").bg-color-adicional-1.d-flex.align-items-center
                   .row.justify-content-center.mr-3
                     .col-6.col-lg-12.mb-3
                       img(src='@/assets/curso/temas/tema1/img10.png' alt='Icono Decorativo')
                     .col-6.col-lg-12
-                      p Consideran la ubicación, el clima y la infraestructura local, factores que influyen en la distribución y el acceso a los productos o servicios.
+                      p.p-3 Consideran la ubicación, el clima y la infraestructura local, factores que influyen en la distribución y el acceso a los productos o servicios.
 
                 .tarjeta.p-3.px-4(titulo="Psicográficas").bg-color-adicional-1.d-flex.align-items-center
                   .row.justify-content-center.mr-3
                     .col-6.col-lg-12.mb-3
                       img(src='@/assets/curso/temas/tema1/img11.png' alt='Icono Decorativo')
                     .col-6.col-lg-12
-                      p Se relacionan con los estilos de vida, valores e intereses, proporcionando información sobre las motivaciones y preferencias del consumidor.
+                      p.p-3 Se relacionan con los estilos de vida, valores e intereses, proporcionando información sobre las motivaciones y preferencias del consumidor.
 
                 .tarjeta.p-3.px-4(titulo="Económicas").bg-color-adicional-1.d-flex.align-items-center
                   .row.justify-content-center.mr-3
                     .col-6.col-lg-12.mb-3
                       img(src='@/assets/curso/temas/tema1/img12.png' alt='Icono Decorativo')
                     .col-6.col-lg-12
-                      p Comprenden el nivel de ingresos, la capacidad de gasto y el acceso a crédito, determinando el poder adquisitivo y las posibilidades de compra.
+                      p.p-3 Comprenden el nivel de ingresos, la capacidad de gasto y el acceso a crédito, determinando el poder adquisitivo y las posibilidades de compra.
 
                 .tarjeta.p-3.px-4(titulo="Tecnológicas").bg-color-adicional-1.d-flex.align-items-center
                   .row.justify-content-center.mr-3
                     .col-6.col-lg-12.mb-3
                       img(src='@/assets/curso/temas/tema1/img13.png' alt='Icono Decorativo')
                     .col-6.col-lg-12
-                      p Evalúan la penetración digital, el uso de dispositivos y la conectividad, variables esenciales en entornos de consumo cada vez más digitales.
+                      p.p-3 Evalúan la penetración digital, el uso de dispositivos y la conectividad, variables esenciales en entornos de consumo cada vez más digitales.
 
     .row.align-items-center.justify-content-center.bg05.p-1(data-aos="fade-left")
       .col-12.col-md-12.col-lg-10.mb-3
         p.mb-0 Estas variables permiten construir perfiles más precisos y segmentar el mercado potencial en grupos con necesidades y comportamientos similares. Por ejemplo, una empresa de software educativo puede identificar como mercado potencial a docentes de primaria en zonas rurales con acceso a internet, que buscan herramientas para mejorar el aprendizaje remoto. La combinación de variables demográficas y tecnológicas permite afinar la propuesta de valor y diseñar estrategias más efectivas.
       .col-12.col-md-6.col-lg-2.mb-3
         figure
-          img.mb-lg-0.w-75.mx-auto(src='@/assets/curso/temas/tema1/img14.png', alt='Imagen Decorativa')
+          img.mb-lg-0.w-75.mx-auto(src='@/assets/curso/temas/tema1/img14.svg', alt='Imagen Decorativa')
 
 
 </template>

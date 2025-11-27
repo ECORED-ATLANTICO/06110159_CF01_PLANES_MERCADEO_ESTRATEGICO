@@ -38,7 +38,7 @@
           .row.align-items-center.justify-content-center.mb-4(data-aos="fade-left")
             .col-12.col-md-8.col-lg-2.mb-4.mb-lg-0
               figure
-                img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema5/img02.png', alt='Imagen Decorativa')
+                img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema5/img02.svg', alt='Imagen Decorativa')
             
             .col-12.col-lg-10
               p.mb-0 El buyer persona se construye a partir de un conjunto de características que permiten representar de forma semificticia al cliente ideal. Este perfil combina información demográfica, conductual y emocional para comprender qué impulsa sus decisiones de compra. Identificar estas características ayuda a las organizaciones a diseñar mensajes, productos y experiencias más alineadas con las verdaderas necesidades y expectativas del público objetivo.
@@ -102,7 +102,7 @@
                   .tarjeta.shadow.p-3.bg-white
                     .row.justify-content-center
                       .col-6.col-lg-8
-                        img(src='@/assets/curso/temas/tema5/img09.png' alt='Imagen Decorativa').w-auto.mx-auto.h-icons.mb-2
+                        img(src='@/assets/curso/temas/tema5/img09.svg' alt='Imagen Decorativa').w-auto.mx-auto.h-icons.mb-2
                     .text-center.px-3.mb-0
                       H5.bg-color-acento-botones.py-1 Necesidades y problemas por resolver
                       p.mb-0 Busca soluciones eficaces que satisfagan carencias o resuelvan situaciones específicas.
@@ -110,7 +110,7 @@
                   .tarjeta.shadow.p-3.bg-white
                     .row.justify-content-center
                       .col-6.col-lg-8
-                        img(src='@/assets/curso/temas/tema5/img10.png' alt='Imagen Decorativa').w-auto.mx-auto.h-icons.mb-2
+                        img(src='@/assets/curso/temas/tema5/img10.svg' alt='Imagen Decorativa').w-auto.mx-auto.h-icons.mb-2
                     .text-center.px-3.mb-0
                       H5.bg-color-acento-botones.py-1 Aspiraciones y metas personales
                       p.mb-0 Se orienta al logro de bienestar, reconocimiento o desarrollo profesional.
@@ -118,7 +118,7 @@
                   .tarjeta.shadow.p-3.bg-white
                     .row.justify-content-center
                       .col-6.col-lg-8
-                        img(src='@/assets/curso/temas/tema5/img11.png' alt='Imagen Decorativa').w-auto.mx-auto.h-icons.mb-2
+                        img(src='@/assets/curso/temas/tema5/img11.svg' alt='Imagen Decorativa').w-auto.mx-auto.h-icons.mb-2
                     .text-center.px-3.mb-0
                       H5.bg-color-acento-botones.py-1 Influencias sociales y culturales
                       p.mb-0 Las opiniones de su entorno y las tendencias sociales influyen en sus decisiones.
@@ -126,7 +126,7 @@
                   .tarjeta.shadow.p-3.bg-white
                     .row.justify-content-center
                       .col-6.col-lg-8
-                        img(src='@/assets/curso/temas/tema5/img12.png' alt='Imagen Decorativa').w-auto.mx-auto.h-icons.mb-2
+                        img(src='@/assets/curso/temas/tema5/img12.svg' alt='Imagen Decorativa').w-auto.mx-auto.h-icons.mb-2
                     .text-center.px-3.mb-0
                       H5.bg-color-acento-botones.py-1 Experiencia y confianza en la marca
                       p.mb-0 La credibilidad, coherencia y transparencia fortalecen su preferencia de compra.
@@ -134,7 +134,7 @@
                   .tarjeta.shadow.p-3.bg-white
                     .row.justify-content-center
                       .col-6.col-lg-8
-                        img(src='@/assets/curso/temas/tema5/img13.png' alt='Imagen Decorativa').w-auto.mx-auto.h-icons.mb-2
+                        img(src='@/assets/curso/temas/tema5/img13.svg' alt='Imagen Decorativa').w-auto.mx-auto.h-icons.mb-2
                     .text-center.px-3.mb-0
                       H5.bg-color-acento-botones.py-1 Precio y valor percibido
                       p.mb-0 Evalúa el equilibrio entre costo y beneficios antes de decidir.
@@ -142,7 +142,7 @@
                   .tarjeta.shadow.p-3.bg-white
                     .row.justify-content-center
                       .col-6.col-lg-8
-                        img(src='@/assets/curso/temas/tema5/img14.png' alt='Imagen Decorativa').w-auto.mx-auto.h-icons.mb-2
+                        img(src='@/assets/curso/temas/tema5/img14.svg' alt='Imagen Decorativa').w-auto.mx-auto.h-icons.mb-2
                     .text-center.px-3.mb-0
                       H5.bg-color-acento-botones.py-1 Emoción y conexión personal
                       p.mb-0 Factores como la empatía, la felicidad o la nostalgia generan afinidad con la marca.
@@ -159,7 +159,7 @@
           .row.align-items-center.justify-content-center
             .col-12.col-md-8.col-lg-2.mb-md-3.mb-lg-4.mb-lg-0
               figure
-                img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema5/img15.png', alt='Imagen Decorativa')
+                img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema5/img15.svg', alt='Imagen Decorativa')
             
             .col-12.col-lg-10
               p.mb-0 La creación del buyer persona implica un proceso analítico que combina investigación de mercado, observación del comportamiento del consumidor y segmentación estratégica. Este proceso busca identificar patrones y características comunes que permitan construir perfiles representativos y útiles para orientar las acciones de comunicación y marketing. A continuación, se presentan los pasos esenciales para su elaboración:
