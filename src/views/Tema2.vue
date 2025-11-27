@@ -33,15 +33,15 @@
       h2#t_2_1 2.1 Tipos
 
     .row.align-items-center.justify-content-center(data-aos="fade-left").mb-4
-      .col-12.col-md-12.col-lg-1.mb-4.mb-lg-0
+      .col-12.col-md-8.col-lg-1.mb-4.mb-lg-0
         figure
-          img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema2/img03.png', alt='Imagen Decorativa')
+          img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema2/img03.png', alt='Imagen Decorativa')
 
       .col-12.col-md-12.col-lg-11
         p.mb-0  Existen diversos tipos de investigación de mercados, cada uno con características específicas que responden a distintos objetivos empresariales. A continuación, se presentan los principales:
 
     .row.align-items-center(data-aos="fade-left")
-      .row.justify-content-center.mb-5
+      .row.justify-content-center.mb-2
         .col-xl-3.col-lg-3.col-12.mb-4.mb-xl-0.col-md-6
           .crd_hover_txt(data-aos="flip-left")
             .crd_hover_txt--img

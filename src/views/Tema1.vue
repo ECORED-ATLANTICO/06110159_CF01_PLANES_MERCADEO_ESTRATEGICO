@@ -7,12 +7,10 @@
         span 1
       h1 Mercado potencial
     
-
-
     .row.justify-content-center.align-items-center.mb-3.bg04(data-aos="fade-left")
-      .col-12.col-md-12.col-lg-3.mx-auto.mb-2
+      .col-12.col-md-8.col-lg-3.mb-2
         figure
-          img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema1/img01.png', alt='Imagen Decorativa')
+          img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema1/img01.png', alt='Imagen Decorativa')
         
       .col-12.col-md-12.col-lg-9
         .row.align-items-center
@@ -28,8 +26,6 @@
                 p.mb-0 el mercado potencial incluye a todos los individuos que presentan un nivel de interés, ingresos y acceso al producto, aunque no necesariamente lo hayan adquirido aún; esta noción es clave en la planificación estratégica, ya que permite dimensionar oportunidades de crecimiento y orientar los esfuerzos de marketing hacia segmentos con mayor probabilidad de conversión.
                 i.fas.fa-quote-right
             
-      
-
     .bg-full-width.bg01
       separador
 
@@ -38,13 +34,13 @@
         h2#t_1_1 1.1 Tipos
 
       //- Col4 y Col8
-      .container.mb-0
+      .container.mb-5
         .row.align-items-center(data-aos="fade-left")
 
           p.mb-4 El concepto de mercado puede desglosarse en varios tipos, cada uno con características específicas que permiten una mejor segmentación y análisis estratégico; a continuación se presentan los principales tipos: 
 
-          .row(data-aos="fade-left")
-            .col-12.col-md-12.col-lg-3.mb-4.mb-lg-0
+          .row.mb-5.mb-md-2(data-aos="fade-left")
+            .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0
                 .tarjeta.shadow.p-4.bg-white.h-100
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-8
@@ -52,7 +48,7 @@
                   .text-center
                     H5.bg-color-secundario.py-1 Mercado real
                     p Está compuesto por los consumidores que actualmente compran el producto o servicio.
-            .col-12.col-md-12.col-lg-3.mb-4.mb-lg-0
+            .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0
                 .tarjeta.shadow.p-4.bg-white.h-100
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-8
@@ -60,7 +56,7 @@
                   .text-center
                     H5.bg-color-secundario.py-1 Mercado disponible
                     p Incluye a quienes tienen interés, ingresos y acceso al producto, pero aún no lo han adquirido.
-            .col-12.col-md-12.col-lg-3.mb-4.mb-lg-0
+            .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0
                 .tarjeta.shadow.p-4.bg-white.h-100
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-8
@@ -68,7 +64,7 @@
                   .text-center
                     H5.bg-color-secundario.py-1 Mercado objetivo
                     p Segmento específico al que la empresa decide dirigir sus esfuerzos de marketing.
-            .col-12.col-md-12.col-lg-3.mb-4.mb-lg-0
+            .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0
                 .tarjeta.shadow.p-4.bg-white.h-100
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-8
@@ -77,9 +73,17 @@
                     H5.bg-color-secundario.py-1 Mercado latente
                     p Total de personas que podrían convertirse en clientes bajo condiciones favorables.
             
-      //- Col Imagen y Texto
-      
+      //- Col8 y Col3
+      .container.mb-2
+        .row.align-items-center(data-aos="fade-left")
+          .col-12.col-lg-10.bg07.justify-content-center.p-4.tarjeta.mx-auto.position-relative
+            .row.align-items-center
+              .col-12.col-md-12.col-lg-4.mb-4.mb-lg-0.d-none.d-lg-block
+                figure
+                  img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema1/img06.png', alt='imagen decorativa').w-auto.img01
 
+              .col-12.col-md-12.col-lg-8.mb-4.mb-lg-0
+                p.mb-0 Cada tipo de mercado cumple una función distinta en la planificación comercial. El mercado real permite evaluar el rendimiento actual, mientras que el mercado disponible y el potencial ayudan a identificar oportunidades de expansión. El mercado objetivo, por su parte, es el foco de las estrategias de posicionamiento y comunicación.  
 
     separador
     .bg-full-width.bg02
@@ -136,12 +140,12 @@
                     .col-6.col-lg-12
                       p Evalúan la penetración digital, el uso de dispositivos y la conectividad, variables esenciales en entornos de consumo cada vez más digitales.
 
-    .row.align-items-center.bg05.p-1(data-aos="fade-left")
-      .col-12.col-md-12.col-lg-10
+    .row.align-items-center.justify-content-center.bg05.p-1(data-aos="fade-left")
+      .col-12.col-md-12.col-lg-10.mb-3
         p.mb-0 Estas variables permiten construir perfiles más precisos y segmentar el mercado potencial en grupos con necesidades y comportamientos similares. Por ejemplo, una empresa de software educativo puede identificar como mercado potencial a docentes de primaria en zonas rurales con acceso a internet, que buscan herramientas para mejorar el aprendizaje remoto. La combinación de variables demográficas y tecnológicas permite afinar la propuesta de valor y diseñar estrategias más efectivas.
-      .col-12.col-md-6.col-lg-2.md-mx-auto
+      .col-12.col-md-6.col-lg-2.mb-3
         figure
-          img.mb-lg-0.w-75(src='@/assets/curso/temas/tema1/img14.png', alt='Imagen Decorativa')
+          img.mb-lg-0.w-75.mx-auto(src='@/assets/curso/temas/tema1/img14.png', alt='Imagen Decorativa')
 
 
 </template>

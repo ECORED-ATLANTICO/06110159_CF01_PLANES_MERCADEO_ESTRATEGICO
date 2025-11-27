@@ -17,7 +17,7 @@
         .col-12.col-md-12.col-lg-7.mb-4.mb-lg-0
           p El componente formativo Mercado potencial ofrece al aprendiz herramientas técnicas y prácticas para abordar el análisis de los mercados, la identificación de oportunidades y la definición de segmentos estratégicos. A partir del conocimiento de los tipos y variables del mercado, la investigación, las tendencias y la segmentación, se fortalecen las competencias analíticas y estratégicas para la formulación de planes de mercadeo coherentes con los objetivos organizacionales. 
           
-          .row.align-items-center.round-1.bg-color-terciario-t20.p-1(data-aos="fade-left")
+          .row.align-items-center.round-1.bg-color-terciario-t20.p-3(data-aos="fade-left")
             .col-12.col-md-6.col-lg-2.mx-auto
               figure
                 img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/intro/img02.png', alt='Imagen Decorativa')
@@ -27,9 +27,9 @@
       .row.align-items-center.justify-content-center(data-aos="fade-left")
         .col-12.col-md-12.col-lg-11.mb-4.mb-lg-0
           .row.align-items-center.justify-content-center
-            .col-12.col-lg-2.d-none.d-lg-block
+            .col-12.col-md-12.col-lg-1.mb-4.mb-lg-0.d-none.d-lg-block
               figure
-                img.mb-4.mb-lg-0(src='@/assets/curso/intro/img03.png', alt='Imagen Decorativa').w-auto.mx-auto
+                img.mb-4.mb-lg-0(src='@/assets/curso/intro/img03.png', alt='imagen decorativa')
             .col-12.col-lg-10
               p.mb-0 Además, promueve la construcción de perfiles de clientes y buyer persona como base para diseñar estrategias efectivas. Así, se contribuye a la formación de profesionales capaces de planificar acciones comerciales sostenibles y competitivas en diversos contextos empresariales. 
 

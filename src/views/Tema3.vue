@@ -8,7 +8,7 @@
       h1 Análisis de tendencias
  
     .row.justify-content-center.align-items-center.mb-3(data-aos="fade-left")
-      .col-12.col-md-12.col-lg-5.mx-auto.mb-2
+      .col-12.col-md-9.col-lg-5.mx-auto.mb-2
         figure
           img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema3/img01.png', alt='Imagen Decorativa')
         
@@ -32,7 +32,7 @@
       .titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2#t_3_1 3.1 Tipos
 
-      .row.align-items-center(data-aos="fade-left")
+      .row.align-items-center.mb-4(data-aos="fade-left")
         //- banner con tarjeta
         .row.justify-content-center.align-items-center.mb-3.tarjeta(data-aos="fade-left")
           .col-lg-12.mb-2
@@ -48,7 +48,44 @@
               h4.mb-0.ps-3 Según Raymond (2020),  
               p.mb-0 entender las tendencias no solo permite anticiparse al futuro, sino también detectar oportunidades antes que la competencia.
               i.fas.fa-quote-right
-    
+        
+      .mb-2.round-3.bg-color-acento-botones-h1.p-2.px-4
+        p.mb-0.text-white 
+          b Las tendencias se clasifican en tres tipos principales:
+
+      .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+        .col-12.col-md-8.col-lg-4.mb-4.mb-lg-0
+          figure
+            img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema3/img03.png', alt='Imagen Decorativa')
+          
+        .col-12.col-lg-8.p-2
+          .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
+            .col-12.col-lg-12.mb-4.mb-lg-0
+              .custom-slider
+                SlyderF(columnas="col-lg-6 col-xl-6 col-md-6 col-sm-12").px-4
+                  .tarjeta.shadow.p-3.bg-white.bg08
+                    .row.justify-content-center
+                      .col-6.col-lg-8
+                        img(src='@/assets/curso/temas/tema3/img10.svg' alt='Imagen Decorativa').w-auto.mx-auto.h-icons.mb-2
+                    .text-center.px-3.mb-0
+                      H5.py-1 Macro
+                      p.mb-0 Cambios globales y estructurales que afectan múltiples sectores; por ejemplo, el envejecimiento poblacional impulsa la demanda de productos para adultos mayores.
+
+                  .tarjeta.shadow.p-3.bg-white.bg08
+                    .row.justify-content-center
+                      .col-6.col-lg-8
+                        img(src='@/assets/curso/temas/tema3/img11.svg' alt='Imagen Decorativa').w-auto.mx-auto.h-icons.mb-2
+                    .text-center.px-3.mb-0
+                      H5.py-1 Micro
+                      p.mb-0 Cambios específicos en grupos sociales o nichos de mercado; por ejemplo, la preferencia por alimentos orgánicos entre jóvenes urbanos.
+
+                  .tarjeta.shadow.p-3.bg-white.bg08
+                    .row.justify-content-center
+                      .col-6.col-lg-8
+                        img(src='@/assets/curso/temas/tema3/img12.svg' alt='Imagen Decorativa').w-auto.mx-auto.h-icons.mb-2
+                    .text-center.px-3.mb-0
+                      H5.py-1 Emergentes
+                      p.mb-0 Señales débiles que podrían convertirse en tendencias consolidadas; por ejemplo, el uso de inteligencia artificial en la atención al cliente.
     separador
 
     //- Titulo
@@ -60,7 +97,7 @@
       p Las herramientas de análisis de tendencias permiten recopilar, organizar e interpretar información clave del entorno para anticipar cambios en el comportamiento del mercado y en las preferencias de los consumidores. Su aplicación facilita la toma de decisiones estratégicas basadas en evidencia, ayudando a las empresas a adaptarse de manera proactiva a las transformaciones sociales, tecnológicas y económicas, fortaleciendo su capacidad de innovación y su posicionamiento competitivo en un entorno dinámico.
 
       .row.align-items-center(data-aos="fade-left").mb-4
-        .col-12.col-md-12.col-lg-5.mx-auto.mb-2
+        .col-12.col-md-9.col-lg-5.mx-auto.mb-2
           figure
             img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema3/img04.png', alt='Imagen Decorativa')
           
@@ -92,9 +129,6 @@
                       h5.mb-3 Análisis de datos digitales
                       p.mb-0 Utiliza herramientas tecnológicas para monitorear comportamientos de consumo, búsquedas y comentarios en línea, lo que permite detectar patrones emergentes y anticipar cambios en las preferencias del público objetivo.
 
-                    
-
-
       separador
 
       //- Titulo
@@ -102,9 +136,9 @@
         h2#t_3_3 3.3 Aplicación
 
       .row.justify-content-center.align-items-center.mb-4.bg04(data-aos="fade-left")
-        .col-12.col-md-12.col-lg-3.mx-auto.mb-2
+        .col-12.col-md-8.col-lg-3.mb-2
           figure
-            img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema3/img06.png', alt='Imagen Decorativa')
+            img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema3/img06.png', alt='Imagen Decorativa')
           
         .col-12.col-md-12.col-lg-9
           .row.align-items-center
