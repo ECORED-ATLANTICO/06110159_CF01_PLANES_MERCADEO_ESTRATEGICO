@@ -38,7 +38,7 @@
 
         p.mb-4 El concepto de mercado puede desglosarse en varios tipos, cada uno con características específicas que permiten una mejor segmentación y análisis estratégico; a continuación se presentan los principales tipos: 
 
-        .row.mb-5.mb-md-2(data-aos="fade-left")
+        .row.mb-5(data-aos="fade-left")
           .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0
             .tarjeta.shadow.p-4.bg-white.h-100
               .row.justify-content-center.mb-3
@@ -111,40 +111,40 @@
                     .col-6.col-lg-12.mb-3
                       img(src='@/assets/curso/temas/tema1/img09.png' alt='Icono Decorativo')
                     .col-6.col-lg-12
-                      p.p-3 Incluyen aspectos como la edad, el género, el nivel educativo y la ocupación, los cuales permiten identificar grupos poblacionales con características comunes.
+                      p.p-3.mb-0 Incluyen aspectos como la edad, el género, el nivel educativo y la ocupación, los cuales permiten identificar grupos poblacionales con características comunes.
 
                 .tarjeta.p-3.px-4(titulo="Geográficas").bg-color-adicional-1.d-flex.align-items-center
                   .row.justify-content-center.mr-3
                     .col-6.col-lg-12.mb-3
                       img(src='@/assets/curso/temas/tema1/img10.png' alt='Icono Decorativo')
                     .col-6.col-lg-12
-                      p.p-3 Consideran la ubicación, el clima y la infraestructura local, factores que influyen en la distribución y el acceso a los productos o servicios.
+                      p.p-3.mb-0 Consideran la ubicación, el clima y la infraestructura local, factores que influyen en la distribución y el acceso a los productos o servicios.
 
                 .tarjeta.p-3.px-4(titulo="Psicográficas").bg-color-adicional-1.d-flex.align-items-center
                   .row.justify-content-center.mr-3
                     .col-6.col-lg-12.mb-3
                       img(src='@/assets/curso/temas/tema1/img11.png' alt='Icono Decorativo')
                     .col-6.col-lg-12
-                      p.p-3 Se relacionan con los estilos de vida, valores e intereses, proporcionando información sobre las motivaciones y preferencias del consumidor.
+                      p.p-3.mb-0 Se relacionan con los estilos de vida, valores e intereses, proporcionando información sobre las motivaciones y preferencias del consumidor.
 
                 .tarjeta.p-3.px-4(titulo="Económicas").bg-color-adicional-1.d-flex.align-items-center
                   .row.justify-content-center.mr-3
                     .col-6.col-lg-12.mb-3
                       img(src='@/assets/curso/temas/tema1/img12.png' alt='Icono Decorativo')
                     .col-6.col-lg-12
-                      p.p-3 Comprenden el nivel de ingresos, la capacidad de gasto y el acceso a crédito, determinando el poder adquisitivo y las posibilidades de compra.
+                      p.p-3.mb-0 Comprenden el nivel de ingresos, la capacidad de gasto y el acceso a crédito, determinando el poder adquisitivo y las posibilidades de compra.
 
                 .tarjeta.p-3.px-4(titulo="Tecnológicas").bg-color-adicional-1.d-flex.align-items-center
                   .row.justify-content-center.mr-3
                     .col-6.col-lg-12.mb-3
                       img(src='@/assets/curso/temas/tema1/img13.png' alt='Icono Decorativo')
                     .col-6.col-lg-12
-                      p.p-3 Evalúan la penetración digital, el uso de dispositivos y la conectividad, variables esenciales en entornos de consumo cada vez más digitales.
+                      p.p-3.mb-0 Evalúan la penetración digital, el uso de dispositivos y la conectividad, variables esenciales en entornos de consumo cada vez más digitales.
 
-    .row.align-items-center.justify-content-center.bg05.p-1(data-aos="fade-left")
-      .col-12.col-md-12.col-lg-10.mb-3
+    .row.align-items-center.justify-content-center.bg05.p-3(data-aos="fade-left")
+      .col-12.col-md-12.col-lg-10.order-2.order-lg-1
         p.mb-0 Estas variables permiten construir perfiles más precisos y segmentar el mercado potencial en grupos con necesidades y comportamientos similares. Por ejemplo, una empresa de software educativo puede identificar como mercado potencial a docentes de primaria en zonas rurales con acceso a internet, que buscan herramientas para mejorar el aprendizaje remoto. La combinación de variables demográficas y tecnológicas permite afinar la propuesta de valor y diseñar estrategias más efectivas.
-      .col-12.col-md-6.col-lg-2.mb-3
+      .col-12.col-md-6.col-lg-2.mb-3.order-1.order-lg-2
         figure
           img.mb-lg-0.w-75.mx-auto(src='@/assets/curso/temas/tema1/img14.svg', alt='Imagen Decorativa')
 
