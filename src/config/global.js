@@ -3,17 +3,21 @@ export default {
     Name: 'Mercado potencial',
     Description:
       'Este componente formativo aborda fundamentos teóricos y prácticos del mercado potencial y su análisis estratégico. Explora tipos de mercado, segmentación, investigación y perfil de clientes. Permite al aprendiz identificar oportunidades comerciales, definir segmentos estratégicos y construir <em>buyer</em> persona para optimizar decisiones de mercadeo y planificación de planes efectivos.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
-      // {
-      //   clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-      //   imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
-      // },
-      // {
-      //   clases: ['banner-principal-decorativo-2'],
-      //   imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
-      // },
+      {
+        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-2'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
+      },
     ],
   },
   menuPrincipal: {
@@ -80,7 +84,7 @@ export default {
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Buyer persona',
+        titulo: '<em>Buyer persona</em>',
         desarrolloContenidos: true,
         subMenu: [
           { numero: '5.1', titulo: 'Características', hash: 't_5_1' },
@@ -134,7 +138,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CFA1_06110159_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -158,7 +162,7 @@ export default {
         'https://usfx.bo/Documentos/RepositorioLibros/Investigacion_de_mercados.pdf',
     },
     {
-      tema: 'Buyer persona',
+      tema: '<em>Buyer persona</em>',
       referencia:
         'HubSpot. (2024). Qué es un buyer persona y cómo crearlo (con plantillas gratis). Blog HubSpot.',
       tipo: 'Artículo web',
@@ -167,12 +171,12 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Benchmarking',
+      termino: '<em>Benchmarking</em>',
       significado:
         'Técnica de investigación que consiste en comparar procesos, productos o estrategias con los líderes del sector para identificar buenas prácticas y oportunidades de mejora.',
     },
     {
-      termino: 'Buyer persona',
+      termino: '<em>Buyer persona</em>',
       significado:
         'Representación semificticia de la cliente ideal basada en datos reales, que incluye características, motivaciones, frustraciones y comportamientos de compra.',
     },
@@ -238,7 +242,7 @@ export default {
     },
     {
       referencia:
-        'Camarás, N. (2020). Buyer persona: qué es, cómo hacerlo y ejemplos. Blog Nuria Camarás.',
+        'Cámaras, N. (2020). Buyer persona: qué es, cómo hacerlo y ejemplos. Blog Nuria Cámaras.',
       link: 'https://nuriacamaras.com/buyer-persona/',
     },
     {
@@ -257,14 +261,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable del ecosistema',
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo:
+            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -272,9 +277,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Nicolas Cruz Ríos ',
+          cargo: 'Experto temático ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Heydy Cristina González García',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -282,19 +292,19 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Antonio Vecino Valero',
+          cargo: 'Diseñador <em>web</em>',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Álvaro Guillermo Araújo Angarita',
+          cargo: 'Desarrollador <em>full stack<em>',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Nelson Iván Vera Briceño',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -302,14 +312,24 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'María Fernanda Morales Angulo',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Jonathan Adie Villafañe',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Jairo Luis Valencia Ebratt',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },

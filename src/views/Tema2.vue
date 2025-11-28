@@ -22,8 +22,9 @@
           .bloque-texto-b.color-terciario
             .bloque-texto-b__texto
               i.fas.fa-quote-left
-              h4.mb-0.ps-3 Según Kotler y Keller (2016),  
-              p.mb-0 el mercado potencial incluye a todos los individuos que presentan un nivel de interés, ingresos y acceso al producto, aunque no necesariamente lo hayan adquirido aún; esta noción es clave en la planificación estratégica, ya que permite dimensionar oportunidades de crecimiento y orientar los esfuerzos de marketing hacia segmentos con mayor probabilidad de conversión.
+              p.mb-0.ps-3 
+                b Según Malhotra (2019),  
+              p.mb-0  esta disciplina combina métodos cuantitativos y cualitativos para comprender las necesidades del mercado, identificar oportunidades y evaluar el desempeño de las acciones comerciales.
               i.fas.fa-quote-right
       
     separador
@@ -40,7 +41,7 @@
       .col-12.col-md-12.col-lg-11
         p.mb-0  Existen diversos tipos de investigación de mercados, cada uno con características específicas que responden a distintos objetivos empresariales. A continuación, se presentan los principales:
 
-    .row.align-items-center(data-aos="fade-left")
+    .row.align-items-center(data-aos="fade-left").mb-5
       .row.justify-content-center.mb-2
         .col-xl-3.col-lg-3.col-12.mb-4.mb-xl-0.col-md-6
           .crd_hover_txt(data-aos="flip-left")
@@ -48,7 +49,7 @@
               figure
                 img(src="@/assets/curso/temas/tema2/img04.png", alt="Imagen decorativa")
             .crd_hover_txt--body
-              p.text-bold.mb-3.text-center Investigación exploratoria
+              p.text-bold.mb-3.text-center Exploratoria
               p Se utiliza en las etapas iniciales del estudio para obtener una comprensión general del problema o identificar variables relevantes. Suele emplear técnicas cualitativas como entrevistas o grupos focales.
 
         .col-xl-3.col-lg-3.col-12.mb-4.mb-xl-0.col-md-6
@@ -57,7 +58,7 @@
               figure
                 img(src="@/assets/curso/temas/tema2/img05.png", alt="Imagen decorativa")
             .crd_hover_txt--body
-              p.text-bold.mb-3.text-center Investigación descriptiva
+              p.text-bold.mb-3.text-center Descriptiva
               p Permite cuantificar características del mercado, comportamientos de compra o perfiles de consumidores. Utiliza encuestas y análisis estadísticos para describir una situación existente.
 
         .col-xl-3.col-lg-3.col-12.mb-4.mb-xl-0.col-md-6
@@ -66,7 +67,7 @@
               figure
                 img(src="@/assets/curso/temas/tema2/img06.png", alt="Imagen decorativa")
             .crd_hover_txt--body
-              p.text-bold.mb-3.text-center Investigación causal o explicativa
+              p.text-bold.mb-3.text-center Causal o explicativa
               p Busca determinar relaciones de causa y efecto entre variables, evaluando cómo un cambio en una de ellas puede influir en otra. Es común en pruebas de producto o campañas publicitarias.
 
         .col-xl-3.col-lg-3.col-12.mb-4.mb-xl-0.col-md-6
@@ -75,8 +76,20 @@
               figure
                 img(src="@/assets/curso/temas/tema2/img07.png", alt="Imagen decorativa")
             .crd_hover_txt--body
-              p.text-bold.mb-3.text-center Investigación predictiva
+              p.text-bold.mb-3.text-center Predictiva
               p Se orienta a anticipar tendencias y comportamientos futuros del mercado mediante modelos estadísticos o herramientas de análisis de datos. Es clave para la planificación estratégica.
+
+    
+    //- Col8 y Col3
+    .row.align-items-center(data-aos="fade-left")
+      .col-12.col-lg-10.bg12.justify-content-center.p-4.tarjeta.mx-auto.position-relative
+        .row.align-items-center
+          .col-12.col-md-12.col-lg-4.mb-4.mb-lg-0.d-none.d-lg-block
+            figure
+              img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema2/img08.png', alt='imagen decorativa').w-auto.img01
+
+          .col-12.col-md-12.col-lg-8.mb-4.mb-lg-0
+            p.mb-0 Cada tipo responde a una etapa distinta del proceso de toma de decisiones. Por ejemplo, una empresa de moda sostenible puede iniciar con una investigación exploratoria para entender qué significa “sostenibilidad” para sus clientes, luego aplicar una investigación descriptiva para perfilar a sus compradores, y finalmente usar técnicas predictivas para estimar la demanda de una nueva colección. La investigación causal sería útil para evaluar si una campaña publicitaria específica incrementa las ventas.
 
     separador
 
@@ -87,10 +100,10 @@
       
     //- Col3 y Col9
     .row.align-items-center(data-aos="fade-left")
-      p.mb-4 En el proceso de investigación de mercados, las fuentes de información se clasifican en primarias y secundarias, según el origen de los datos. Esta distinción es fundamental para definir el enfoque metodológico, el presupuesto y el tiempo requerido para obtener resultados confiables. 
+      p.mb-4 Las técnicas de investigación representan los métodos de recolección de datos y se dividen en dos grandes grupos: cualitativas y cuantitativas; ambas son complementarias y permiten obtener una visión integral del mercado.
 
       TabsB.color-primario
-        .py-4.py-md-5(titulo="Cualitativos" :icono="require('@/assets/curso/temas/tema2/img09.svg')")
+        .p-4.p-md-5(titulo="Cualitativos" :icono="require('@/assets/curso/temas/tema2/img09.svg')")
           .row.align-items-center
             .col-12.col-md-12.col-lg-9
               p.mb-0 Se enfocan en comprender percepciones, motivaciones y comportamientos del consumidor. Utilizan técnicas como entrevistas en profundidad, grupos focales, observación directa y análisis de contenido. 
@@ -98,7 +111,7 @@
               figure
                 img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema2/img11.png', alt='Imagen Decorativa')
 
-        .py-4.py-md-5(titulo="<em>Checklists</em> operativos: verificación de ejecución en campo." :icono="require('@/assets/curso/temas/tema2/img10.svg')")
+        .p-4.p-md-5(titulo="<em>Checklists</em> operativos: verificación de ejecución en campo." :icono="require('@/assets/curso/temas/tema2/img10.svg')")
           .row.align-items-center
             .col-12.col-md-12.col-lg-9
               p.mb-0 Permiten medir y analizar datos numéricos para identificar patrones, preferencias o niveles de satisfacción. Emplean encuestas estructuradas, experimentos y análisis estadístico de la información. 
@@ -113,7 +126,7 @@
       h2#t_2_3 2.3 Fuentes de información
 
     .row.align-items-center(data-aos="fade-left")
-      p.mb-4 Las técnicas de investigación representan los métodos de recolección de datos y se dividen en dos grandes grupos: cualitativas y cuantitativas; ambas son complementarias y permiten obtener una visión integral del mercado.
+      p.mb-4 En el proceso de investigación de mercados, las fuentes de información se clasifican en primarias y secundarias, según el origen de los datos. Esta distinción es fundamental para definir el enfoque metodológico, el presupuesto y el tiempo requerido para obtener resultados confiables.
       .row.justify-content-center.mb-5
         .col-xl-6.col-lg-6.col-12.mb-4.mb-xl-0.col-md-8
           .crd_hover_txt(data-aos="flip-left").round-2
@@ -145,8 +158,9 @@
               .bloque-texto-b.color-terciario
                 .bloque-texto-b__texto
                   i.fas.fa-quote-left
-                  p.mb-0 Aunque son más accesibles y económicas, las fuentes secundarias pueden presentar limitaciones en cuanto a actualidad, profundidad o relevancia específica.
-                  h4.mb-0.ps-3 <br>Según Kotler y Keller (2016),  
+                  p.mb-0 Aunque son más accesibles y económicas, las fuentes secundarias pueden presentar limitaciones en cuanto a actualidad, profundidad o relevancia específica
+                  p.mb-0.ps-3 <br>
+                    b (Aaker et al., 2017).
                   i.fas.fa-quote-right
 
             .col-12.col-md-12.col-lg-12.mx-auto

@@ -31,13 +31,13 @@
               figure
                 img.mb-4.mb-lg-0(src='@/assets/curso/intro/img03.svg', alt='imagen decorativa')
             .col-12.col-lg-10
-              p.mb-0 Además, promueve la construcción de perfiles de clientes y buyer persona como base para diseñar estrategias efectivas. Así, se contribuye a la formación de profesionales capaces de planificar acciones comerciales sostenibles y competitivas en diversos contextos empresariales. 
+              p.mb-0 Además, promueve la construcción de perfiles de clientes y <em>buyer persona</em> como base para diseñar estrategias efectivas. Así, se contribuye a la formación de profesionales capaces de planificar acciones comerciales sostenibles y competitivas en diversos contextos empresariales. 
 
 
     // Video
     figure.mb-5
       .video.mb-2
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/_AEo02CGe0o?si=GrS0x9a8Z2rwElJl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/TWUFslJmHUE?si=Jjn8dhT1mJViBb3j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Fuente: SENA, 2025.
 
 </template>

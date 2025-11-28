@@ -7,24 +7,26 @@
         span 4
       h1 Perfil del mercado
   
-    .row.justify-content-center.align-items-center.mb-4.bg04(data-aos="fade-left")
-      .col-12.col-md-8.col-lg-3.mb-2
+    .row.justify-content-center.align-items-center.mb-5.bg04(data-aos="fade-left")
+      .col-8.col-md-8.col-lg-3.mb-2
         figure
           img.mb-4.mb-lg-0.mx-auto.w-md-auto(src='@/assets/curso/temas/tema4/img01.png', alt='Imagen Decorativa')
         
       .col-12.col-md-12.col-lg-9
         .row.align-items-center
           .col-12.col-md-12.col-lg-12.mx-auto
-            p.p-1  Comprender al cliente es esencial para el éxito del marketing estratégico. El perfil de mercado permite identificar con precisión a quién se dirige una organización, qué necesidades debe satisfacer y cómo puede generar una conexión efectiva con su público objetivo.
+            p.p-1  Comprender al cliente es esencial para el éxito del 
+              i marketing 
+              | estratégico. El perfil de mercado permite identificar con precisión a quién se dirige una organización, qué necesidades debe satisfacer y cómo puede generar una conexión efectiva con su público objetivo.
 
           .col-12.col-md-12.col-lg-12.mx-auto
-            .row.align-items-center.round-1.bg-color-terciario-t20.p-2(data-aos="fade-left")
-              .col-12.col-md-6.col-lg-2
+            .row.align-items-center.round-1.bg-color-terciario-t20.p-3(data-aos="fade-left")
+              .col-8.col-md-6.col-lg-2.mb-3.mb-lg-0.mx-auto
                 figure
                   img.mb-4.mb-lg-0.mx-auto.w-sm-auto(src='@/assets/curso/temas/tema3/img02.svg', alt='Imagen Decorativa')
               .col-12.col-md-12.col-lg-10
-                p.mb-0 Incluye los elementos que definen el perfil ideal y el perfil real del consumidor, así como la identificación del segmento de mercado como unidad estratégica. También incorpora el uso del buyer persona, una herramienta que humaniza los datos y orienta las decisiones comerciales hacia soluciones más personalizadas y efectivas.
-    
+                p.mb-0 Incluye los elementos que definen el perfil ideal y el perfil real del consumidor, así como la identificación del segmento de mercado como unidad estratégica. También incorpora el uso del <em>buyer persona</em>, una herramienta que humaniza los datos y orienta las decisiones comerciales hacia soluciones más personalizadas y efectivas.
+    separador
     .bg-full-width.bg01
 
       //- Titulo
@@ -44,7 +46,8 @@
           .bloque-texto-b.color-terciario
             .bloque-texto-b__texto
               i.fas.fa-quote-left
-              h4.mb-0.ps-3 Según Kotler y Keller (2016),  
+              p.mb-0.ps-3 
+                b Según Kotler y Keller (2016),  
               p.mb-0 este perfil se construye a partir de variables demográficas como edad, género e ingresos; geográficas como ubicación, clima y densidad poblacional; psicográficas como valores, intereses y estilo de vida; y conductuales como hábitos de compra, uso del producto y nivel de lealtad.
               i.fas.fa-quote-right
 
@@ -59,7 +62,7 @@
 
               .col-12.col-md-12.col-lg-8.mb-4.mb-lg-0
                 p.mb-0 Además, puede incorporar otras variables como nivel educativo, ocupación, frecuencia de compra o sensibilidad al precio, dependiendo del objetivo estratégico. Más que identificar quién compra, el perfil de mercado busca comprender por qué lo hace, cómo se comporta y qué factores influyen en sus decisiones de consumo.
-
+    separador
     //- Titulo
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_4_2 4.2 Perfil ideal
@@ -72,10 +75,12 @@
             img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema4/img05.png', alt='Imagen Decorativa')
           
         .col-12.col-md-12.col-lg-8
-          p.p-1  En la práctica del marketing, es común diferenciar entre el perfil ideal y el perfil real del consumidor. 
+          p.p-1  En la práctica del 
+            i marketing, 
+            | es común diferenciar entre el perfil ideal y el perfil real del consumidor. 
 
-          .row.align-items-center.round-1.bg-color-terciario-t20.p-2(data-aos="fade-left")
-            .col-12.col-md-6.col-lg-2.mx-auto
+          .row.align-items-center.round-1.bg-color-terciario-t20.p-3(data-aos="fade-left")
+            .col-8.col-md-6.col-lg-2.mx-auto
               figure
                 img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema4/img06.svg', alt='Imagen Decorativa')
             .col-12.col-md-12.col-lg-10
@@ -100,7 +105,10 @@
               .crd_hover_txt--body
                 p.text-bold.mb-3.text-center Perfil real
                 p Corresponde a los consumidores actuales identificados mediante datos concretos y observables. Refleja el comportamiento real del mercado y permite ajustar la estrategia comercial.
-
+      
+      
+      separador
+      
       //- Titulo
       .titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2#t_4_3 4.3 Segmento de mercado

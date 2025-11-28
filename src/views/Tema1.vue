@@ -22,8 +22,10 @@
             .bloque-texto-b.color-terciario
               .bloque-texto-b__texto
                 i.fas.fa-quote-left
-                h4.mb-0.ps-3 Según Kotler y Keller (2016),  
-                p.mb-0 el mercado potencial incluye a todos los individuos que presentan un nivel de interés, ingresos y acceso al producto, aunque no necesariamente lo hayan adquirido aún; esta noción es clave en la planificación estratégica, ya que permite dimensionar oportunidades de crecimiento y orientar los esfuerzos de marketing hacia segmentos con mayor probabilidad de conversión.
+                p.mb-0.ps-3 
+                  b Según Kotler y Keller (2016),  
+                p.mb-0 el mercado potencial incluye a todos los individuos que presentan un nivel de interés, ingresos y acceso al producto, aunque no necesariamente lo hayan adquirido aún; esta noción es clave en la planificación estratégica, ya que permite dimensionar oportunidades de crecimiento y orientar los esfuerzos de <em>marketing</em> 
+                  | hacia segmentos con mayor probabilidad de conversión.
                 i.fas.fa-quote-right
             
     .bg-full-width.bg01
@@ -64,7 +66,8 @@
                   img(src='@/assets/curso/temas/tema1/img04.svg' alt='Imagen Decorativa').w-auto.mx-auto.h-120.mb-2
               .text-center
                 H5.bg-color-secundario.py-1 Mercado objetivo
-                p Segmento específico al que la empresa decide dirigir sus esfuerzos de marketing.
+                p Segmento específico al que la empresa decide dirigir sus esfuerzos de 
+                  i marketing.
           
           .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0
             .tarjeta.shadow.p-4.bg-white.h-100
@@ -143,7 +146,9 @@
 
     .row.align-items-center.justify-content-center.bg05.p-3(data-aos="fade-left")
       .col-12.col-md-12.col-lg-10.order-2.order-lg-1
-        p.mb-0 Estas variables permiten construir perfiles más precisos y segmentar el mercado potencial en grupos con necesidades y comportamientos similares. Por ejemplo, una empresa de software educativo puede identificar como mercado potencial a docentes de primaria en zonas rurales con acceso a internet, que buscan herramientas para mejorar el aprendizaje remoto. La combinación de variables demográficas y tecnológicas permite afinar la propuesta de valor y diseñar estrategias más efectivas.
+        p.mb-0 Estas variables permiten construir perfiles más precisos y segmentar el mercado potencial en grupos con necesidades y comportamientos similares. Por ejemplo, una empresa de 
+           i software 
+           | educativo puede identificar como mercado potencial a docentes de primaria en zonas rurales con acceso a internet, que buscan herramientas para mejorar el aprendizaje remoto. La combinación de variables demográficas y tecnológicas permite afinar la propuesta de valor y diseñar estrategias más efectivas.
       .col-12.col-md-6.col-lg-2.mb-3.order-1.order-lg-2
         figure
           img.mb-lg-0.w-75.mx-auto(src='@/assets/curso/temas/tema1/img14.svg', alt='Imagen Decorativa')

@@ -118,7 +118,7 @@ export default {
         {
           id: 7,
           texto:
-            'El benchmarking consiste en copiar las estrategias de la competencia sin adaptarlas.',
+            'El <em>benchmarking</em> consiste en copiar las estrategias de la competencia sin adaptarlas.',
           imagen: require('@/assets/actividad/img03.png'),
           barajarRespuestas: true,
           opciones: [
@@ -193,7 +193,7 @@ export default {
         {
           id: 12,
           texto:
-            'El buyer persona ayuda a humanizar los datos del perfil de mercado y mejorar la comunicación.',
+            'El <em>buyer</em> persona ayuda a humanizar los datos del perfil de mercado y mejorar la comunicación.',
           imagen: require('@/assets/actividad/img01.png'),
           barajarRespuestas: true,
           opciones: [
@@ -208,7 +208,7 @@ export default {
         {
           id: 13,
           texto:
-            'El buyer persona es una representación ficticia sin base en datos reales.',
+            'El <em>buyer</em> persona es una representación ficticia sin base en datos reales.',
           imagen: require('@/assets/actividad/img01.png'),
           barajarRespuestas: true,
           opciones: [
@@ -223,7 +223,7 @@ export default {
         {
           id: 14,
           texto:
-            'Un buyer persona puede incluir frustraciones y objetivos del cliente.',
+            'Un <em>buyer</em> persona puede incluir frustraciones y objetivos del cliente.',
           imagen: require('@/assets/actividad/img07.png'),
           barajarRespuestas: true,
           opciones: [
@@ -268,7 +268,7 @@ export default {
         {
           id: 17,
           texto:
-            'El benchmarking permite comparar prácticas de la empresa con las de los líderes del sector.',
+            'El <em>benchmarking</em> permite comparar prácticas de la empresa con las de los líderes del sector.',
           imagen: require('@/assets/actividad/img05.png'),
           barajarRespuestas: true,
           opciones: [

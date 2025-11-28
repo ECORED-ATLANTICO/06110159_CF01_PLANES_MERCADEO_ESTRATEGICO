@@ -39,7 +39,9 @@
             div.tarjeta-horz.mb-3
               img(src='@/assets/curso/temas/tema6/img02.png', alt='Imagen decorativa')
               div.texto-tarjeta.bg-white
-                  p.mb-0 La segmentación de mercados es una estrategia esencial para construir mensajes que generen conexión y significado. Al reconocer los rasgos, motivaciones y expectativas de cada segmento, las marcas pueden diseñar narrativas más precisas y emocionalmente resonantes. En el storytelling digital, segmentar significa comprender a quién se le cuenta la historia, cómo desea escucharla y por qué esa historia tiene valor para él. Este enfoque favorece la empatía, la personalización y la eficacia comunicativa, convirtiendo cada mensaje en una experiencia relevante para su audiencia.
+                  p.mb-0 La segmentación de mercados es una estrategia esencial para construir mensajes que generen conexión y significado. Al reconocer los rasgos, motivaciones y expectativas de cada segmento, las marcas pueden diseñar narrativas más precisas y emocionalmente resonantes. En el 
+                    i storytelling 
+                    | digital, segmentar significa comprender a quién se le cuenta la historia, cómo desea escucharla y por qué esa historia tiene valor para él. Este enfoque favorece la empatía, la personalización y la eficacia comunicativa, convirtiendo cada mensaje en una experiencia relevante para su audiencia.
 
         .row.mb-md-2(data-aos="fade-left")
           .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0
@@ -125,7 +127,7 @@
 
     //- Titulo
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_6_3 6.3 Segmento de mercado
+      h2#t_6_3 6.3 Criterios
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
       .col-12.col-md-8.col-lg-5.mb-2
@@ -139,7 +141,7 @@
 
           .col-12.col-md-12.col-lg-12.mx-auto
             .row.align-items-center.round-1.bg-color-terciario-t20.p-3(data-aos="fade-left")
-              .col-12.col-md-6.col-lg-2.mx-auto
+              .col-8.col-md-6.col-lg-2.mx-auto
                 figure
                   img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema6/img09.svg', alt='Imagen Decorativa')
               .col-12.col-md-12.col-lg-10
@@ -147,64 +149,68 @@
     
     separador
     
-    //- Titulo
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_6_4 6.4 Estándares
+    .row.align-items-center.justify-content-center.mb-0(data-aos="fade-right")
+      .col-12.col-md-12.col-lg-10
 
-    //- Col8 y Col3
-    .container.mb-5
-      .row.align-items-center(data-aos="fade-left")
-        .col-12.col-lg-10.bg07.justify-content-center.p-4.tarjeta.mx-auto.position-relative
-          .row.align-items-center
-            .col-12.col-md-12.col-lg-3.mb-4.mb-lg-0.d-none.d-lg-block
-              figure
-                img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema6/img10.png', alt='imagen decorativa').w-auto.img17
+        //- Titulo
+        .titulo-segundo.color-acento-contenido(data-aos="fade-right")
+          h2#t_6_4 6.4 Estándares
 
-            .col-12.col-md-12.col-lg-8.mb-4.mb-lg-0
-              p.mb-0 Los estándares de segmentación son principios estratégicos que garantizan que los criterios utilizados para dividir el mercado sean realmente efectivos. Según Rock Content (2021), un segmento debe cumplir ciertas condiciones que permitan su correcta medición, acceso y diferenciación dentro del mercado. Estos estándares aseguran que la segmentación no solo sea precisa, sino también útil para la toma de decisiones comerciales y de comunicación.
+        //- Col8 y Col3
+        .container.mb-5
+          .row.align-items-center(data-aos="fade-left")
+            .col-12.col-lg-12.bg07.justify-content-center.p-4.tarjeta.mx-auto.position-relative
+              .row.align-items-center
+                .col-12.col-md-12.col-lg-3.mb-4.mb-lg-0.d-none.d-lg-block
+                  figure
+                    img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema6/img10.png', alt='imagen decorativa').w-auto.img17
+
+                .col-12.col-md-12.col-lg-8.mb-4.mb-lg-0
+                  p.mb-0 Los estándares de segmentación son principios estratégicos que garantizan que los criterios utilizados para dividir el mercado sean realmente efectivos. Según Rock Content (2021), un segmento debe cumplir ciertas condiciones que permitan su correcta medición, acceso y diferenciación dentro del mercado. Estos estándares aseguran que la segmentación no solo sea precisa, sino también útil para la toma de decisiones comerciales y de comunicación.
       
-    //- Col9 (Slider) y Col3
-    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
-      .col-12.col-xl-9.mb-4.mb-lg-0
-        TabsA.color-terciario
-          .tarjeta.p-3.px-4(titulo="Medible").bg-color-adicional-1.d-flex.align-items-center
-            .row.justify-content-center.mr-3
-              .col-6.col-lg-12.mb-3
-                img(src='@/assets/curso/temas/tema6/img11.png' alt='Icono Decorativo')
-              .col-6.col-lg-12
-                p.mb-0.p-1 El segmento debe poder cuantificarse en términos de tamaño, poder adquisitivo y características relevantes.
+        //- Col9 (Slider) y Col3
+        .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
+          .col-12.col-xl-9.mb-4.mb-lg-0
+            TabsA.color-terciario
+              .tarjeta.p-3.px-4(titulo="Medible").bg-color-adicional-1.d-flex.align-items-center
+                .row.justify-content-center.mr-3
+                  .col-6.col-lg-12.mb-3
+                    img(src='@/assets/curso/temas/tema6/img11.png' alt='Icono Decorativo')
+                  .col-6.col-lg-12
+                    p.mb-0.p-1 El segmento debe poder cuantificarse en términos de tamaño, poder adquisitivo y características relevantes.
 
-          .tarjeta.p-3.px-4(titulo="Accesible").bg-color-adicional-1.d-flex.align-items-center
-            .row.justify-content-center.mr-3
-              .col-6.col-lg-12.mb-3
-                img(src='@/assets/curso/temas/tema6/img12.png' alt='Icono Decorativo')
-              .col-6.col-lg-12
-                p.mb-0.p-1 La empresa debe poder llegar al segmento mediante canales de distribución y comunicación adecuados.
+              .tarjeta.p-3.px-4(titulo="Accesible").bg-color-adicional-1.d-flex.align-items-center
+                .row.justify-content-center.mr-3
+                  .col-6.col-lg-12.mb-3
+                    img(src='@/assets/curso/temas/tema6/img12.png' alt='Icono Decorativo')
+                  .col-6.col-lg-12
+                    p.mb-0.p-1 La empresa debe poder llegar al segmento mediante canales de distribución y comunicación adecuados.
 
-          .tarjeta.p-3.px-4(titulo="Sustancial").bg-color-adicional-1.d-flex.align-items-center
-            .row.justify-content-center.mr-3
-              .col-6.col-lg-12.mb-3
-                img(src='@/assets/curso/temas/tema6/img13.png' alt='Icono Decorativo')
-              .col-6.col-lg-12
-                p.mb-0.p-1 El segmento debe tener una dimensión y rentabilidad suficientes para justificar una estrategia específica.
+              .tarjeta.p-3.px-4(titulo="Sustancial").bg-color-adicional-1.d-flex.align-items-center
+                .row.justify-content-center.mr-3
+                  .col-6.col-lg-12.mb-3
+                    img(src='@/assets/curso/temas/tema6/img13.png' alt='Icono Decorativo')
+                  .col-6.col-lg-12
+                    p.mb-0.p-1 El segmento debe tener una dimensión y rentabilidad suficientes para justificar una estrategia específica.
 
-          .tarjeta.p-3.px-4(titulo="Diferenciable").bg-color-adicional-1.d-flex.align-items-center
-            .row.justify-content-center.mr-3
-              .col-6.col-lg-12.mb-3
-                img(src='@/assets/curso/temas/tema6/img14.png' alt='Icono Decorativo')
-              .col-6.col-lg-12
-                p.mb-0.p-1 Cada segmento debe mostrar respuestas distintas ante diferentes propuestas de marketing.
+              .tarjeta.p-3.px-4(titulo="Diferenciable").bg-color-adicional-1.d-flex.align-items-center
+                .row.justify-content-center.mr-3
+                  .col-6.col-lg-12.mb-3
+                    img(src='@/assets/curso/temas/tema6/img14.png' alt='Icono Decorativo')
+                  .col-6.col-lg-12
+                    p.mb-0.p-1 Cada segmento debe mostrar respuestas distintas ante diferentes propuestas de 
+                      i marketing.
 
-          .tarjeta.p-3.px-4(titulo="Estable").bg-color-adicional-1.d-flex.align-items-center
-            .row.justify-content-center.mr-3
-              .col-6.col-lg-12.mb-3
-                img(src='@/assets/curso/temas/tema6/img15.png' alt='Icono Decorativo')
-              .col-6.col-lg-12
-                p.mb-0.p-1 Las características del segmento deben mantenerse relativamente constantes en el tiempo para permitir una planificación efectiva.
+              .tarjeta.p-3.px-4(titulo="Estable").bg-color-adicional-1.d-flex.align-items-center
+                .row.justify-content-center.mr-3
+                  .col-6.col-lg-12.mb-3
+                    img(src='@/assets/curso/temas/tema6/img15.png' alt='Icono Decorativo')
+                  .col-6.col-lg-12
+                    p.mb-0.p-1 Las características del segmento deben mantenerse relativamente constantes en el tiempo para permitir una planificación efectiva.
 
-      .col-12.col-lg-3.mb-4.mb-lg-0.d-xl-block.d-none(data-aos="fade-left")
-        figure
-          img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema6/img16.png', alt='Imagen Decorativa')
+          .col-12.col-lg-3.mb-4.mb-lg-0.d-xl-block.d-none(data-aos="fade-left")
+            figure
+              img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema6/img16.png', alt='Imagen Decorativa')
 
     separador
     
@@ -223,8 +229,8 @@
             p Aplicar buenas prácticas en la segmentación con enfoque narrativo implica ir más allá de dividir audiencias: se trata de comprenderlas con empatía, análisis y creatividad. Una segmentación efectiva no solo define a quién se dirige el mensaje, sino que permite construir historias que conectan con las emociones, valores y realidades de cada grupo.
 
           .col-12.col-md-12.col-lg-12.mx-auto
-            .row.align-items-center.round-1.bg-color-terciario-t20.p-2(data-aos="fade-left")
-              .col-12.col-md-6.col-lg-2.mx-auto
+            .row.align-items-center.round-1.bg-color-terciario-t20.p-3(data-aos="fade-left")
+              .col-8.col-md-6.col-lg-2.mx-auto
                 figure
                   img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema6/img18.svg', alt='Imagen Decorativa')
               .col-12.col-md-12.col-lg-10

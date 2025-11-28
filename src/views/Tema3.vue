@@ -14,7 +14,8 @@
         
       .col-12.col-md-12.col-lg-7
         .row.align-items-center
-          p.mb-4 En un entorno comercial cada vez más dinámico, comprender las tendencias del mercado se ha convertido en una habilidad esencial para cualquier profesional del marketing. 
+          p.mb-4 En un entorno comercial cada vez más dinámico, comprender las tendencias del mercado se ha convertido en una habilidad esencial para cualquier profesional del 
+            i marketing. 
 
           .col-12.col-md-12.col-lg-12.mx-auto
             .row.align-items-center.round-1.bg-color-terciario-t20.p-3(data-aos="fade-left")
@@ -22,7 +23,9 @@
                 figure
                   img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema3/img02.svg', alt='Imagen Decorativa')
               .col-12.col-md-12.col-lg-10
-                p.mb-0 A través del estudio de herramientas como PESTEL, benchmarking y observación directa, se busca desarrollar la capacidad de anticipar oportunidades, adaptar estrategias y generar propuestas de valor alineadas con el contexto. El análisis de tendencias no solo permite mirar hacia el futuro, sino también entender el presente con mayor profundidad.
+                p.mb-0 A través del estudio de herramientas como PESTEL, 
+                  i benchmarking 
+                  | y observación directa, se busca desarrollar la capacidad de anticipar oportunidades, adaptar estrategias y generar propuestas de valor alineadas con el contexto. El análisis de tendencias no solo permite mirar hacia el futuro, sino también entender el presente con mayor profundidad.
                   
     separador
 
@@ -45,7 +48,8 @@
           .bloque-texto-b.color-terciario
             .bloque-texto-b__texto
               i.fas.fa-quote-left
-              h4.mb-0.ps-3 Según Raymond (2020),  
+              p.mb-0.ps-3 
+                 b Según Raymond (2020),  
               p.mb-0 entender las tendencias no solo permite anticiparse al futuro, sino también detectar oportunidades antes que la competencia.
               i.fas.fa-quote-right
         
@@ -65,7 +69,7 @@
                 SlyderF(columnas="col-lg-6 col-xl-6 col-md-6 col-sm-12").px-4
                   .tarjeta.shadow.p-3.bg-white.bg08
                     .row.justify-content-center
-                      .col-6.col-lg-8
+                      .col-6.col-lg-10
                         img(src='@/assets/curso/temas/tema3/img10.svg' alt='Imagen Decorativa').w-auto.mx-auto.h-icons.mb-2
                     .text-center.px-3.mb-0
                       H5.py-1 Macro
@@ -114,7 +118,8 @@
                 .tarjeta.p-2.p-lg-3
                   .row.align-items-center
                     .col-12.col-lg-12.mb-0
-                      h5.mb-3 Benchmarking
+                      h5.mb-3 
+                        i Benchmarking
                       p.mb-0 Consiste en comparar el desempeño, procesos y estrategias de una organización con los líderes del sector, identificando buenas prácticas que orienten la mejora continua y la competitividad.
 
                 .tarjeta.p-2.p-lg-3
@@ -149,7 +154,8 @@
               .bloque-texto-b.color-terciario
                 .bloque-texto-b__texto
                   i.fas.fa-quote-left
-                  h4.mb-0.ps-3 Según Kotler y Keller (2016),  
+                  p.mb-0.ps-3 
+                    b De acuerdo con Kotler y Keller (2016),  
                   p.mb-0  las oportunidades emergen cuando las empresas identifican necesidades insatisfechas, transformaciones en el entorno o avances tecnológicos susceptibles de aprovecharse para generar valor.
                   i.fas.fa-quote-right
             
@@ -160,21 +166,21 @@
 
       .col-12.col-xl-7.mb-4.mb-lg-0
         TabsA.color-terciario
-          .tarjeta.p-3.px-4(titulo="Demográficas").bg-color-adicional-1.d-flex.align-items-center
+          .tarjeta.p-3.px-4(titulo="Digitalización de servicios").bg-color-adicional-1.d-flex.align-items-center
             .row.justify-content-center.mr-3
               .col-6.col-lg-12.mb-3
                 img(src='@/assets/curso/temas/tema3/img07.png' alt='Icono Decorativo')
               .col-6.col-lg-12
                 p.mb-0 Desarrollo de plataformas virtuales y automatización de procesos.
 
-          .tarjeta.p-3.px-4(titulo="Geográficas").bg-color-adicional-1.d-flex.align-items-center
+          .tarjeta.p-3.px-4(titulo="Consumo consciente").bg-color-adicional-1.d-flex.align-items-center
             .row.justify-content-center.mr-3
               .col-6.col-lg-12.mb-3
                 img(src='@/assets/curso/temas/tema3/img07.png' alt='Icono Decorativo')
               .col-6.col-lg-12
                 p.mb-0 Creación de marcas sostenibles, empaques ecológicos y trazabilidad ética.
 
-          .tarjeta.p-3.px-4(titulo="Psicográficas").bg-color-adicional-1.d-flex.align-items-center
+          .tarjeta.p-3.px-4(titulo="Envejecimiento poblacional").bg-color-adicional-1.d-flex.align-items-center
             .row.justify-content-center.mr-3
               .col-6.col-lg-12.mb-3
                 img(src='@/assets/curso/temas/tema3/img07.png' alt='Icono Decorativo')
