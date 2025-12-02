@@ -84,7 +84,7 @@ export default {
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: '<em>Buyer persona</em>',
+        titulo: '<em>Buyer</em> persona',
         desarrolloContenidos: true,
         subMenu: [
           { numero: '5.1', titulo: 'Características', hash: 't_5_1' },
@@ -162,7 +162,7 @@ export default {
         'https://usfx.bo/Documentos/RepositorioLibros/Investigacion_de_mercados.pdf',
     },
     {
-      tema: '<em>Buyer persona</em>',
+      tema: '<em>Buyer</em> persona',
       referencia:
         'HubSpot. (2024). Qué es un buyer persona y cómo crearlo (con plantillas gratis). Blog HubSpot.',
       tipo: 'Artículo web',
@@ -176,7 +176,7 @@ export default {
         'Técnica de investigación que consiste en comparar procesos, productos o estrategias con los líderes del sector para identificar buenas prácticas y oportunidades de mejora.',
     },
     {
-      termino: '<em>Buyer persona</em>',
+      termino: '<em>Buyer</em> persona',
       significado:
         'Representación semificticia de la cliente ideal basada en datos reales, que incluye características, motivaciones, frustraciones y comportamientos de compra.',
     },
@@ -293,7 +293,7 @@ export default {
       autores: [
         {
           nombre: 'Antonio Vecino Valero',
-          cargo: 'Diseñador <em>web</em>',
+          cargo: 'Diseñador web',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {

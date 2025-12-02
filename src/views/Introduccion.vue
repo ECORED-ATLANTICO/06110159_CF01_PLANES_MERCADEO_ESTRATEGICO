@@ -31,7 +31,7 @@
               figure
                 img.mb-4.mb-lg-0(src='@/assets/curso/intro/img03.svg', alt='imagen decorativa')
             .col-12.col-lg-10
-              p.mb-0 Además, promueve la construcción de perfiles de clientes y <em>buyer persona</em> como base para diseñar estrategias efectivas. Así, se contribuye a la formación de profesionales capaces de planificar acciones comerciales sostenibles y competitivas en diversos contextos empresariales. 
+              p.mb-0 Además, promueve la construcción de perfiles de clientes y <em>buyer</em> persona como base para diseñar estrategias efectivas. Así, se contribuye a la formación de profesionales capaces de planificar acciones comerciales sostenibles y competitivas en diversos contextos empresariales. 
 
 
     // Video

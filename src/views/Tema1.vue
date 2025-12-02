@@ -22,8 +22,7 @@
             .bloque-texto-b.color-terciario
               .bloque-texto-b__texto
                 i.fas.fa-quote-left
-                p.mb-0.ps-3 
-                  b Según Kotler y Keller (2016),  
+                p.mb-0.ps-3 Según Kotler y Keller (2016),  
                 p.mb-0 el mercado potencial incluye a todos los individuos que presentan un nivel de interés, ingresos y acceso al producto, aunque no necesariamente lo hayan adquirido aún; esta noción es clave en la planificación estratégica, ya que permite dimensionar oportunidades de crecimiento y orientar los esfuerzos de <em>marketing</em> 
                   | hacia segmentos con mayor probabilidad de conversión.
                 i.fas.fa-quote-right
@@ -38,7 +37,7 @@
       //- Col4 y Col8
       .row.align-items-center.mb-5(data-aos="fade-left")
 
-        p.mb-4 El concepto de mercado puede desglosarse en varios tipos, cada uno con características específicas que permiten una mejor segmentación y análisis estratégico; a continuación se presentan los principales tipos: 
+        p.mb-4 El concepto de mercado puede desglosarse en varios tipos, cada uno con características específicas que permiten una mejor segmentación y análisis estratégico; a continuación, se presentan los principales tipos: 
 
         .row.mb-5(data-aos="fade-left")
           .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0

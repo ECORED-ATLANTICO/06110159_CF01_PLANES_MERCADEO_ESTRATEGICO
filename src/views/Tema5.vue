@@ -6,8 +6,7 @@
       .titulo-principal.color-acento-contenido
         .titulo-principal__numero
           span 5
-        h1 
-          i Buyer persona
+        h1 <em>Buyer</em> persona
     
       .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
         .col-12.col-md-8.col-lg-3.mb-2
@@ -17,15 +16,16 @@
         .col-12.col-md-12.col-lg-9
           .row.align-items-center
             .col-12.col-md-12.col-lg-12.mx-auto
-              p.p-1 El <em>buyer persona</em> es una representación semificticia del cliente ideal de una empresa. Se basa en datos reales sobre comportamiento, motivaciones y necesidades del consumidor, permitiendo diseñar estrategias de comunicación más personalizadas y eficaces (HubSpot, 2022).
+              p.p-1 El <em>buyer</em> persona es una representación semificticia del cliente ideal de una empresa. Se basa en datos reales sobre comportamiento, motivaciones y necesidades del consumidor, permitiendo diseñar estrategias de comunicación más personalizadas y eficaces (HubSpot, 2022).
                 
             .col-12.col-md-12.col-lg-12.mx-auto.mb-3
               .bloque-texto-b.color-terciario
                 .bloque-texto-b__texto
                   i.fas.fa-quote-left
-                  p.mb-0.ps-3 
-                     b Según Revella (2015), 
-                  p.mb-0 el <em>buyer persona</em> es un perfil detallado que describe los intereses, preocupaciones y patrones de toma de decisiones de los clientes potenciales. Esta herramienta facilita la creación de contenido relevante y aumenta la efectividad de las estrategias de <em>marketing.</em>
+                  p.mb-0.ps-3 Según 
+                    b Revella 
+                    | (2015), 
+                  p.mb-0 el <em>buyer</em> persona es un perfil detallado que describe los intereses, preocupaciones y patrones de toma de decisiones de los clientes potenciales. Esta herramienta facilita la creación de contenido relevante y aumenta la efectividad de las estrategias de <em>marketing.</em>
                   i.fas.fa-quote-right
       
       separador
@@ -43,7 +43,7 @@
                 img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema5/img02.svg', alt='Imagen Decorativa')
             
             .col-12.col-lg-10
-              p.mb-0 El <em>buyer persona</em> se construye a partir de un conjunto de características que permiten representar de forma semificticia al cliente ideal. Este perfil combina información demográfica, conductual y emocional para comprender qué impulsa sus decisiones de compra. Identificar estas características ayuda a las organizaciones a diseñar mensajes, productos y experiencias más alineadas con las verdaderas necesidades y expectativas del público objetivo.
+              p.mb-0 El <em>buyer</em> persona se construye a partir de un conjunto de características que permiten representar de forma semificticia al cliente ideal. Este perfil combina información demográfica, conductual y emocional para comprender qué impulsa sus decisiones de compra. Identificar estas características ayuda a las organizaciones a diseñar mensajes, productos y experiencias más alineadas con las verdaderas necesidades y expectativas del público objetivo.
 
           //- Col9 (Slider) y Col3
           .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
@@ -95,7 +95,7 @@
             img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema5/img08.png', alt='Imagen Decorativa')
           
         .col-12.col-lg-9.p-2
-          p.mb-3 El <em>buyer persona</em> no solo actúa por necesidades racionales, sino también por motivaciones emocionales y sociales que influyen directamente en su decisión de compra. Comprender estos factores permite crear estrategias de comunicación y valor más coherentes con sus expectativas, impulsando una conexión genuina entre la marca y el consumidor.
+          p.mb-3 El <em>buyer</em> persona no solo actúa por necesidades racionales, sino también por motivaciones emocionales y sociales que influyen directamente en su decisión de compra. Comprender estos factores permite crear estrategias de comunicación y valor más coherentes con sus expectativas, impulsando una conexión genuina entre la marca y el consumidor.
           
           .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
             .col-12.col-lg-12.mb-4.mb-lg-0
@@ -164,7 +164,7 @@
                 img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema5/img15.svg', alt='Imagen Decorativa')
             
             .col-12.col-lg-10
-              p.mb-0 La creación del <em>buyer persona</em> implica un proceso analítico que combina investigación de mercado, observación del comportamiento del consumidor y segmentación estratégica. Este proceso busca identificar patrones y características comunes que permitan construir perfiles representativos y útiles para orientar las acciones de comunicación y 
+              p.mb-0 La creación del <em>buyer</em> persona implica un proceso analítico que combina investigación de mercado, observación del comportamiento del consumidor y segmentación estratégica. Este proceso busca identificar patrones y características comunes que permitan construir perfiles representativos y útiles para orientar las acciones de comunicación y 
                 i marketing. 
                 | A continuación, se presentan los pasos esenciales para su elaboración:
 
@@ -181,17 +181,17 @@
               .col-12.col-md-12.col-lg-12
                 p.mb-0 Con la información recolectada, se analizan los datos para identificar patrones de comportamiento y segmentar a los consumidores en grupos con características similares, lo que permite definir perfiles más precisos y estrategias efectivas.
 
-            .row(titulo="Creación del perfil del <em>buyer persona</em>").justify-content-center.align-items-center.p-2
+            .row(titulo="Creación del perfil del <em>buyer</em> persona").justify-content-center.align-items-center.p-2
               .col-12.col-md-12.col-lg-12
-                p.mb-0 A partir de los datos organizados, se construye el perfil del buyer persona definiendo edad, género, ocupación, intereses, motivaciones y puntos de dolor. Se recomienda asignarle un nombre y una historia representativa.
+                p.mb-0 A partir de los datos organizados, se construye el perfil del <em>buyer</em> persona definiendo edad, género, ocupación, intereses, motivaciones y puntos de dolor. Se recomienda asignarle un nombre y una historia representativa.
 
-            .row(titulo="Validación y ajuste del <em>buyer persona</em>").justify-content-center.align-items-center.p-2
+            .row(titulo="Validación y ajuste del <em>buyer</em> persona").justify-content-center.align-items-center.p-2
               .col-12.col-md-12.col-lg-12
                 p.mb-0 El perfil se valida con datos reales a través de pruebas piloto o encuestas, asegurando que refleje al público objetivo. De ser necesario, se realizan ajustes para mejorar su exactitud.
 
             .row(titulo="Aplicación en estrategias de contenido").justify-content-center.align-items-center.p-2
               .col-12.col-md-12.col-lg-12
-                p.mb-0 El <em>buyer persona</em> validado se integra en la planificación de contenidos, orientando la personalización de mensajes, formatos y campañas que generen conexión y mayor impacto en la audiencia.
+                p.mb-0 El <em>buyer</em> persona validado se integra en la planificación de contenidos, orientando la personalización de mensajes, formatos y campañas que generen conexión y mayor impacto en la audiencia.
 
         .row.align-items-center.justify-content-center(data-aos="fade-left")
           .col-12.col-md-12.col-lg-12
@@ -199,13 +199,13 @@
             .mb-5(data-aos="zoom-in-down")
               .titulo-sexto.mb-4
                 h5 Figura 1. 
-                  span Pasos para la creación del <em>buyer persona</em> 
+                  span Pasos para la creación del <em>buyer</em> persona
               figure.mb-4
-                img(src='@/assets/curso/temas/tema5/img16.svg', alt='La figura describe las herramientas de diagnóstico para la sostenibilidad, DOFA verde, benchmarking sostenible, Análisis de Ciclo de Vida, huella de carbono y balanced scorecard verde, destacando su función en la identificación de oportunidades de mejora y en la toma de decisiones.').mx-auto.d-none.d-md-block
+                img(src='@/assets/curso/temas/tema5/img16.svg', alt='La figura muestra los pasos para la creación del buyer persona: investigación de mercado, identificación de patrones, creación del perfil, validación y aplicación en estrategias de contenido.').mx-auto.d-none.d-md-block
 
               //- Version movil de la figura
               figure.d-block.d-md-none.d-lg-none
-                img(src='@/assets/curso/temas/tema5/img16_1.svg', alt='La figura relaciona cuatro técnicas de seguimiento comercial. La primera es la llamada telefónica; la segunda es el correo personalizado, la tercera es la reunión de seguimiento y finalmente el contenido adicional.')
+                img(src='@/assets/curso/temas/tema5/img16_1.svg', alt='La figura muestra los pasos para la creación del buyer persona: investigación de mercado, identificación de patrones, creación del perfil, validación y aplicación en estrategias de contenido.')
 
               figcaption 
                 b Fuente: 

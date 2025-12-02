@@ -22,8 +22,7 @@
           .bloque-texto-b.color-terciario
             .bloque-texto-b__texto
               i.fas.fa-quote-left
-              p.mb-0.ps-3 
-                b Según Malhotra (2019),  
+              p.mb-0.ps-3 Según Malhotra (2019),  
               p.mb-0  esta disciplina combina métodos cuantitativos y cualitativos para comprender las necesidades del mercado, identificar oportunidades y evaluar el desempeño de las acciones comerciales.
               i.fas.fa-quote-right
       
@@ -43,7 +42,7 @@
 
     .row.align-items-center(data-aos="fade-left").mb-5
       .row.justify-content-center.mb-2
-        .col-xl-3.col-lg-3.col-12.mb-4.mb-xl-0.col-md-6
+        .col-xl-3.col-lg-6.col-12.mb-4.mb-xl-0.col-md-6
           .crd_hover_txt(data-aos="flip-left")
             .crd_hover_txt--img
               figure
@@ -52,7 +51,7 @@
               p.text-bold.mb-3.text-center Exploratoria
               p Se utiliza en las etapas iniciales del estudio para obtener una comprensión general del problema o identificar variables relevantes. Suele emplear técnicas cualitativas como entrevistas o grupos focales.
 
-        .col-xl-3.col-lg-3.col-12.mb-4.mb-xl-0.col-md-6
+        .col-xl-3.col-lg-6.col-12.mb-4.mb-xl-0.col-md-6
           .crd_hover_txt(data-aos="flip-left")
             .crd_hover_txt--img
               figure
@@ -61,7 +60,7 @@
               p.text-bold.mb-3.text-center Descriptiva
               p Permite cuantificar características del mercado, comportamientos de compra o perfiles de consumidores. Utiliza encuestas y análisis estadísticos para describir una situación existente.
 
-        .col-xl-3.col-lg-3.col-12.mb-4.mb-xl-0.col-md-6
+        .col-xl-3.col-lg-6.col-12.mb-4.mb-xl-0.col-md-6
           .crd_hover_txt(data-aos="flip-left")
             .crd_hover_txt--img
               figure
@@ -70,7 +69,7 @@
               p.text-bold.mb-3.text-center Causal o explicativa
               p Busca determinar relaciones de causa y efecto entre variables, evaluando cómo un cambio en una de ellas puede influir en otra. Es común en pruebas de producto o campañas publicitarias.
 
-        .col-xl-3.col-lg-3.col-12.mb-4.mb-xl-0.col-md-6
+        .col-xl-3.col-lg-6.col-12.mb-4.mb-xl-0.col-md-6
           .crd_hover_txt(data-aos="flip-left")
             .crd_hover_txt--img
               figure
@@ -82,7 +81,7 @@
     
     //- Col8 y Col3
     .row.align-items-center(data-aos="fade-left")
-      .col-12.col-lg-10.bg12.justify-content-center.p-4.tarjeta.mx-auto.position-relative
+      .col-12.col-lg-12.col-xl-10.bg12.justify-content-center.p-4.tarjeta.mx-auto.position-relative
         .row.align-items-center
           .col-12.col-md-12.col-lg-4.mb-4.mb-lg-0.d-none.d-lg-block
             figure
@@ -103,7 +102,7 @@
       p.mb-4 Las técnicas de investigación representan los métodos de recolección de datos y se dividen en dos grandes grupos: cualitativas y cuantitativas; ambas son complementarias y permiten obtener una visión integral del mercado.
 
       TabsB.color-primario
-        .p-4.p-md-5(titulo="Cualitativos" :icono="require('@/assets/curso/temas/tema2/img09.svg')")
+        div(titulo="Cualitativos" :icono="require('@/assets/curso/temas/tema2/img09.svg')")
           .row.align-items-center
             .col-12.col-md-12.col-lg-9
               p.mb-0 Se enfocan en comprender percepciones, motivaciones y comportamientos del consumidor. Utilizan técnicas como entrevistas en profundidad, grupos focales, observación directa y análisis de contenido. 
@@ -111,7 +110,7 @@
               figure
                 img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema2/img11.png', alt='Imagen Decorativa')
 
-        .p-4.p-md-5(titulo="<em>Checklists</em> operativos: verificación de ejecución en campo." :icono="require('@/assets/curso/temas/tema2/img10.svg')")
+        div(titulo="<em>Checklists</em> operativos: verificación de ejecución en campo." :icono="require('@/assets/curso/temas/tema2/img10.svg')")
           .row.align-items-center
             .col-12.col-md-12.col-lg-9
               p.mb-0 Permiten medir y analizar datos numéricos para identificar patrones, preferencias o niveles de satisfacción. Emplean encuestas estructuradas, experimentos y análisis estadístico de la información. 
@@ -167,7 +166,7 @@
               .row.align-items-center.round-1.bg-color-terciario-t20.p-3(data-aos="fade-left")
                 .col-12.col-md-6.col-lg-2.mx-auto
                   figure
-                    img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema2/img16.svg', alt='Imagen Decorativa')
+                    img.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema2/img16.png', alt='Imagen Decorativa')
                 .col-12.col-md-12.col-lg-10
                   p.mb-0 La combinación de ambas fuentes permite enriquecer el análisis y tomar decisiones más informadas, en contextos empresariales, es común iniciar con fuentes secundarias para contextualizar el problema y luego aplicar técnicas primarias para profundizar en aspectos específicos del público objetivo.
                     

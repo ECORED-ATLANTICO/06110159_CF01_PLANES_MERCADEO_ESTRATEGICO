@@ -159,13 +159,13 @@
         //- Col8 y Col3
         .container.mb-5
           .row.align-items-center(data-aos="fade-left")
-            .col-12.col-lg-12.bg07.justify-content-center.p-4.tarjeta.mx-auto.position-relative
+            .col-12.col-lg-12.col-xl-12.bg07.justify-content-center.p-4.tarjeta.mx-auto.position-relative
               .row.align-items-center
-                .col-12.col-md-12.col-lg-3.mb-4.mb-lg-0.d-none.d-lg-block
+                .col-12.col-md-12.col-lg-5.col-xl-3.mb-4.mb-lg-0.d-none.d-lg-block
                   figure
                     img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema6/img10.png', alt='imagen decorativa').w-auto.img17
 
-                .col-12.col-md-12.col-lg-8.mb-4.mb-lg-0
+                .col-12.col-md-12.col-lg-7.mb-4.mb-lg-0
                   p.mb-0 Los estándares de segmentación son principios estratégicos que garantizan que los criterios utilizados para dividir el mercado sean realmente efectivos. Según Rock Content (2021), un segmento debe cumplir ciertas condiciones que permitan su correcta medición, acceso y diferenciación dentro del mercado. Estos estándares aseguran que la segmentación no solo sea precisa, sino también útil para la toma de decisiones comerciales y de comunicación.
       
         //- Col9 (Slider) y Col3

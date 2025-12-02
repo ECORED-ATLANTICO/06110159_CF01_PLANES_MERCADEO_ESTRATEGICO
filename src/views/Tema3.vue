@@ -48,8 +48,7 @@
           .bloque-texto-b.color-terciario
             .bloque-texto-b__texto
               i.fas.fa-quote-left
-              p.mb-0.ps-3 
-                 b Según Raymond (2020),  
+              p.mb-0.ps-3 Según Raymond (2020),  
               p.mb-0 entender las tendencias no solo permite anticiparse al futuro, sino también detectar oportunidades antes que la competencia.
               i.fas.fa-quote-right
         
@@ -154,8 +153,7 @@
               .bloque-texto-b.color-terciario
                 .bloque-texto-b__texto
                   i.fas.fa-quote-left
-                  p.mb-0.ps-3 
-                    b De acuerdo con Kotler y Keller (2016),  
+                  p.mb-0.ps-3 De acuerdo con Kotler y Keller (2016),  
                   p.mb-0  las oportunidades emergen cuando las empresas identifican necesidades insatisfechas, transformaciones en el entorno o avances tecnológicos susceptibles de aprovecharse para generar valor.
                   i.fas.fa-quote-right
             
@@ -176,14 +174,14 @@
           .tarjeta.p-3.px-4(titulo="Consumo consciente").bg-color-adicional-1.d-flex.align-items-center
             .row.justify-content-center.mr-3
               .col-6.col-lg-12.mb-3
-                img(src='@/assets/curso/temas/tema3/img07.png' alt='Icono Decorativo')
+                img(src='@/assets/curso/temas/tema3/img08.png' alt='Icono Decorativo')
               .col-6.col-lg-12
                 p.mb-0 Creación de marcas sostenibles, empaques ecológicos y trazabilidad ética.
 
           .tarjeta.p-3.px-4(titulo="Envejecimiento poblacional").bg-color-adicional-1.d-flex.align-items-center
             .row.justify-content-center.mr-3
               .col-6.col-lg-12.mb-3
-                img(src='@/assets/curso/temas/tema3/img07.png' alt='Icono Decorativo')
+                img(src='@/assets/curso/temas/tema3/img09.png' alt='Icono Decorativo')
               .col-6.col-lg-12
                 p.mb-0 Innovaciones en salud preventiva, productos adaptados y tecnología asistida.
 

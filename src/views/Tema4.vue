@@ -25,7 +25,7 @@
                 figure
                   img.mb-4.mb-lg-0.mx-auto.w-sm-auto(src='@/assets/curso/temas/tema3/img02.svg', alt='Imagen Decorativa')
               .col-12.col-md-12.col-lg-10
-                p.mb-0 Incluye los elementos que definen el perfil ideal y el perfil real del consumidor, así como la identificación del segmento de mercado como unidad estratégica. También incorpora el uso del <em>buyer persona</em>, una herramienta que humaniza los datos y orienta las decisiones comerciales hacia soluciones más personalizadas y efectivas.
+                p.mb-0 Incluye los elementos que definen el perfil ideal y el perfil real del consumidor, así como la identificación del segmento de mercado como unidad estratégica. También incorpora el uso del <em>buyer</em> persona, una herramienta que humaniza los datos y orienta las decisiones comerciales hacia soluciones más personalizadas y efectivas.
     separador
     .bg-full-width.bg01
 
@@ -46,8 +46,7 @@
           .bloque-texto-b.color-terciario
             .bloque-texto-b__texto
               i.fas.fa-quote-left
-              p.mb-0.ps-3 
-                b Según Kotler y Keller (2016),  
+              p.mb-0.ps-3 Según Kotler y Keller (2016),  
               p.mb-0 este perfil se construye a partir de variables demográficas como edad, género e ingresos; geográficas como ubicación, clima y densidad poblacional; psicográficas como valores, intereses y estilo de vida; y conductuales como hábitos de compra, uso del producto y nivel de lealtad.
               i.fas.fa-quote-right
 
@@ -116,9 +115,9 @@
     //- Col8 y Col3
     .container.mb-5
       .row.align-items-center(data-aos="fade-left")
-        .col-12.col-lg-10.bg07.justify-content-center.p-4.tarjeta.mx-auto.position-relative
+        .col-12.col-lg-12.col-xl-10.bg07.justify-content-center.p-4.tarjeta.mx-auto.position-relative
           .row.align-items-center
-            .col-12.col-md-12.col-lg-3.mb-4.mb-lg-0.d-none.d-lg-block
+            .col-12.col-md-12.col-lg-4.col-xl-3.mb-4.mb-lg-0.d-none.d-lg-block
               figure
                 img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema4/img09.png', alt='imagen decorativa').w-auto.img17
 
