@@ -55,11 +55,11 @@
         .row.align-items-center(data-aos="fade-left")
           .col-12.col-lg-10.bg07.justify-content-center.p-4.tarjeta.mx-auto.position-relative
             .row.align-items-center
-              .col-12.col-md-12.col-lg-4.mb-4.mb-lg-0.d-none.d-lg-block
+              .col-12.col-md-12.col-lg-5.col-xl-4.mb-4.mb-lg-0.d-none.d-lg-block
                 figure
                   img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema4/img04.png', alt='imagen decorativa').w-auto.img04
 
-              .col-12.col-md-12.col-lg-8.mb-4.mb-lg-0
+              .col-12.col-md-12.col-lg-7.col-xl-8.mb-4.mb-lg-0
                 p.mb-0 Además, puede incorporar otras variables como nivel educativo, ocupación, frecuencia de compra o sensibilidad al precio, dependiendo del objetivo estratégico. Más que identificar quién compra, el perfil de mercado busca comprender por qué lo hace, cómo se comporta y qué factores influyen en sus decisiones de consumo.
     separador
     //- Titulo

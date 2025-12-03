@@ -81,11 +81,11 @@
       .row.align-items-center(data-aos="fade-left")
         .col-12.col-lg-10.bg07.justify-content-center.p-4.tarjeta.mx-auto.position-relative
           .row.align-items-center
-            .col-12.col-md-12.col-lg-4.mb-4.mb-lg-0.d-none.d-lg-block
+            .col-12.col-md-12.col-lg-5.col-xl-4.mb-4.mb-lg-0.d-none.d-lg-block
               figure
                 img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema1/img06.png', alt='imagen decorativa').w-auto.img01
 
-            .col-12.col-md-12.col-lg-8.mb-4.mb-lg-0
+            .col-12.col-md-12.col-lg-7.col-xl-8.mb-4.mb-lg-0
               p.mb-0 Cada tipo de mercado cumple una función distinta en la planificación comercial. El mercado real permite evaluar el rendimiento actual, mientras que el mercado disponible y el potencial ayudan a identificar oportunidades de expansión. El mercado objetivo, por su parte, es el foco de las estrategias de posicionamiento y comunicación.  
 
     separador
