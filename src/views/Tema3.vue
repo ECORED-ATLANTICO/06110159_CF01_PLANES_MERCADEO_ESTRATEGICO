@@ -158,7 +158,7 @@
                   i.fas.fa-quote-right
             
     .row.justify-content-center.mb-5(data-aos="fade-right")
-      .col-12.col-lg-5.mb-4.mb-lg-0.d-xl-block.d-none(data-aos="fade-left")
+      .col-12.col-lg-12.col-xl-5.mb-4.mb-lg-0(data-aos="fade-left")
         .cajon.bg-color-acento-botones-p5.p-4.mb-4
           p.mb-0 La aplicación práctica de este análisis se evidencia en diversos sectores: la expansión del teletrabajo impulsó la creación de mobiliario funcional para espacios reducidos, mientras que el creciente interés por la salud mental favoreció el desarrollo de aplicaciones de bienestar y campañas corporativas enfocadas en el equilibrio emocional.
 

@@ -22,7 +22,7 @@ export default {
       introduccion:
         '<b> Objetivo:</b> Analizar los conceptos fundamentales del mercado potencial y su relación con la investigación, las tendencias y la segmentación del mercado.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!.',
+      titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {

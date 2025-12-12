@@ -110,7 +110,7 @@
               figure
                 img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema2/img11.png', alt='Imagen Decorativa')
 
-        div(titulo="<em>Checklists</em> operativos: verificación de ejecución en campo." :icono="require('@/assets/curso/temas/tema2/img10.svg')")
+        div(titulo="Cuantitativos" :icono="require('@/assets/curso/temas/tema2/img10.svg')")
           .row.align-items-center
             .col-12.col-md-12.col-lg-9
               p.mb-0 Permiten medir y analizar datos numéricos para identificar patrones, preferencias o niveles de satisfacción. Emplean encuestas estructuradas, experimentos y análisis estadístico de la información. 
